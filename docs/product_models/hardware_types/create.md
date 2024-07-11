@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Cadastrar tipo de hardware"
 ---
 
-# Cadastrar tipo de hardware :computer:
+# Cadastrar Tipo de Hardware :computer:
 
 Para cadastrar os tipos de hardware, é necessário seguir o caminho abaixo:
 

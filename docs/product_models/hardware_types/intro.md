@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: "Introdução aos tipos de hardware"
+title: "Introdução aos Tipos de Hardware"
 ---
 
 # Introdução aos tipos de hardware :desktop_computer:
