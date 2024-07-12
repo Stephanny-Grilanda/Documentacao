@@ -16,7 +16,7 @@ function HomepageHeader() {
          Documentação Sistema {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <div className="button-section">
           <Link
             className="button button--secondary button--lg"
             to="/documentation/docs/intro">

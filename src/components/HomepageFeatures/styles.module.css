@@ -9,3 +9,11 @@
   height: 200px;
   width: 200px;
 }
+
+.ms-2 {
+  margin-left: 0.5rem;
+}
+
+.me-2 {
+  margin-right: 0.5rem;
+}
