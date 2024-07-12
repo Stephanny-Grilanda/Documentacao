@@ -49,7 +49,7 @@ A seguir confira os pré-requisitos para cadastrar os tipos de hardware:
 
 :::info
 
-Após o cadastro, o tipo de hardware será incluído na lista de tipos de hardwares, onde constará seu nome, tipo, número de fabricantes que possuem aquele produto, data de inclusão, status e ações disponíveis. Veja no exemplo abaixo:
+Após o cadastro, o tipo de hardware será incluído na lista de tipos de hardware, que apresenta seu nome, tipo, quantidade de fabricantes que oferecem esse produto, data de inclusão, status e ações disponíveis. Veja o exemplo abaixo:
 
 :::
 
