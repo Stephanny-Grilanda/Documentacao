@@ -28,6 +28,10 @@ O sistema permite adicionar fabricantes para cada tipo de hardware, para isso cl
 
 ![ações disponíveis no sistema](/img/images/fabricante.png)
 
+:::info
+Para cadastrar um fabricante é necessário ter um tipo de hardware cadastrado.
+:::
+
 ### Editar Fabricante
 
 Para editar um fabricante siga os passos a seguir:
