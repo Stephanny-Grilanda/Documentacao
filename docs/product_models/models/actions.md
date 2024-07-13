@@ -24,6 +24,10 @@ Nesse campo você pode editar o nome do modelo, basta realizar a alteração e c
 
 ## Cadastrar versões
 
+:::info
+Para cadastrar versões é necessário ter um modelo cadastrado.
+:::
+
 Para cadastrar versões em um modelo siga o passo a passo a seguir:
 
 - Clique em cima do número de versões no modelo desejado
