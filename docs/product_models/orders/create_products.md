@@ -20,7 +20,7 @@ A seguir confira os pré-requisitos para cadastrar os modelos:
 ### Pré-requisitos
 
 - Ter um perfil de acesso ao sistema
-- Ter acesso à página de modelos
+- Ter acesso à página de pedidos
 - Ter permissão de escrita
 - Ter uma versão de modelo cadastrada
   :::
@@ -57,7 +57,9 @@ A seguir confira os pré-requisitos para cadastrar os modelos:
 
 ![Tela para cadastro de produtos](/img/images/tela_cadastrar_produtos.png)
 
+:::info
 Após o cadastro, o produto será incluído em uma lista e poderá ser localizado logo abaixo do campo **Cadastrar novo produto**
+:::
 
 ![Tela para cadastro de produtos](/img/images/lista_produtos.png)
 
