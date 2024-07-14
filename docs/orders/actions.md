@@ -11,9 +11,13 @@ Ainda na tela de pedidos é possível realizar ações com pedido. Veja abaixo q
 
 ## Editar Produto
 
+Nesta página você pode editar o código de barras, número de série, asset tag, peso, part number e o código Vadis.
+
 :::info
-Nesta página você pode editar o código de barras, número de série, asset tag, peso, part number e o código Vadis. Para editar um produto é necessário ter permissão de atualização
-:::
+**Pré-requisitos para editar um produto:**
+
+- Ter permissão de atualização
+  :::
 
 Para realizar alterações, clique em **`Editar Produto`**, mude o que for necessário e clique em **`Salvar`**. Veja o exemplo abaixo:
 
