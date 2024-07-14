@@ -21,7 +21,7 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 
 - Ter um perfil de acesso ao sistema
 - Ter acesso à página de itens
-- Ter permissão de escrita
+- Ter permissão de escrita da página de itens
   :::
 
 ## Regras de Preenchimento

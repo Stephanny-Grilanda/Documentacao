@@ -22,6 +22,10 @@ Ao clicar em **`Arquivar`** irá aparecer a mensagem "Deseja continuar?", clique
 Nesse campo você pode editar o nome do modelo, basta realizar a alteração e clicar em **`Salvar`**
 ![tela edição de modelos](/img/images/editar_modelo.png)
 
+:::info
+Para editar modelos é necessário ter permissão de atualização
+:::
+
 ## Cadastrar versões
 
 :::info
@@ -43,3 +47,19 @@ Para cadastrar versões em um modelo siga o passo a passo a seguir:
 - Após preencher a versão, ela estará disponível para visualização ao clicar no número correspondente de versões do modelo desejado. Veja no exemplo abaixo:
 
 ![lista de versões](/img/images/lista_versoes.png)
+
+## Preencher Especificações
+
+:::info
+**Requisitos:**
+
+- Ter uma versão cadastrada
+- Ter campos de especificações cadastrados
+  :::
+
+### Passo a Passo para Preencher Especificações
+
+- Clique no número referente à quantidade de versões cadastradas
+- Clique no botão **`Preencher especif.`**
+- Preencha os campos que contém as especifições do modelo em questão
+- Clique em **`Salvar`**
