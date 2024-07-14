@@ -20,6 +20,10 @@ Para editar um item, siga os passos abaixo:
 
 ![tela edição de itens](/img/images/editar_itens.png)
 
+:::info
+Para editar os itens é necessário ter permissão de atualização
+:::
+
 ## Arquivar item
 
 Para arquivar um item, siga os passos abaixo:

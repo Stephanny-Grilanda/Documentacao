@@ -21,8 +21,10 @@ A seguir confira os pré-requisitos para cadastrar os modelos:
 
 - Ter um perfil de acesso ao sistema
 - Ter acesso à página de pedidos
-- Ter permissão de escrita
-- Ter uma versão de modelo cadastrada
+- Ter permissão de escrita da página de pedidos
+- Ter permissão de leitura da página de pedidos
+- Ter um pedido cadastrado
+- Ter uma triagem cadastrada
   :::
 
 ### Regras de Preenchimento

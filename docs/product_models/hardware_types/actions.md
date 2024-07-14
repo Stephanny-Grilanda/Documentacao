@@ -17,20 +17,31 @@ Ao clicar em **`Arquivar`** irá aparecer a mensagem "Deseja continuar?", clique
 
 ![ações disponíveis no sistema](/img/images/confirmacao_arquivar.png)
 
-## Editar
-
-Nesse campo você pode editar o nome do tipo de hardware, basta realizar a alteração e clicar em **`Salvar`**
-![ações disponíveis no sistema](/img/images/editar.png)
-
 ## Adicionar Fabricante
+
+:::info
+Pré requisitos para adicionar um fabricante:
+
+- Ter um perfil de acesso ao sistema
+- Ter acesso à página de tipos de hardware
+- Ter permissão de escrita
+- Ter um hardware cadastrado
+  :::
 
 O sistema permite adicionar fabricantes para cada tipo de hardware, para isso clique em **adicionar fabricante**, digite o nome e clique em **`salvar`**
 
 ![ações disponíveis no sistema](/img/images/fabricante.png)
 
+## Editar
+
 :::info
-Para cadastrar um fabricante é necessário ter um tipo de hardware cadastrado.
+Para editar os tipos de hardware e fabricantes é necessário ter permissão de atualização
 :::
+
+### Editar Tipo de Hardware
+
+Nesse campo você pode editar o nome do tipo de hardware, basta realizar a alteração e clicar em **`Salvar`**
+![ações disponíveis no sistema](/img/images/editar.png)
 
 ### Editar Fabricante
 
