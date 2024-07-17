@@ -13,11 +13,11 @@ Para cadastrar os tipos de hardware, é necessário seguir o caminho abaixo:
 
 ![Caminho para acessar os tipos de hardware](/img/images/Caminho_tipos_hardware.png)
 
-A seguir confira os pré-requisitos para cadastrar os tipos de hardware:
-
 :::info
 
 ### Pré-requisitos
+
+Para criar um tipo de hardware é necessário preencher todos os resquisitos a seguir:
 
 - Ter um perfil de acesso ao sistema
 - Ter acesso à página de tipos de hardware
@@ -34,16 +34,14 @@ A seguir confira os pré-requisitos para cadastrar os tipos de hardware:
 
 ### Passo a passo para cadastro
 
-- Clique no botão cadastrar novo, localizado no canto superior direito da tela
+- Clique no botão **`cadastrar novo`**, localizado no canto superior direito da tela
 - Selecione o NCM
 - Digite o nome do tipo de hardware
 - Selecione o tipo do tipo de hardware
-  - `Produto:` engloba tudo que é controlado unitariamente com exceção dos dispositivos de armazenamento
-  - `Dispositivo de armazenamento:` são todas as mídias que serão controladas unitariamente
-  - `Item:` tudo que é controlado em massa, por quantidade
+  - **Produto:** engloba tudo que é controlado unitariamente com exceção dos dispositivos de armazenamento
+  - **Dispositivo de armazenamento:** são todas as mídias que serão controladas unitariamente
+  - **Item:** tudo que é controlado em massa, por quantidade
 - Clique em **`salvar`**
-
-### Tela de cadastro
 
 ![Tela de Cadastro](/img/images/telaCadastro.png)
 
