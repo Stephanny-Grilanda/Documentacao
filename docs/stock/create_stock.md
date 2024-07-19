@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Cadastrar Estoques"
 ---
 
-# Cadastrar Estoques
+# Cadastrar Estoques :clipboard:
 
 O cadastro de estoques é feito de forma simples e tem como objetivo facilitar o gerenciamento de produtos de acordo com a necessidade da empresa.
 
@@ -46,4 +46,4 @@ Após o cadastro, o estoque será incluído numa lista onde constará seu nome, 
 Para pesquisar um estoque basta digitar o nome do mesmo no campo **`PESQUISAR`**
 :::
 
-Nas próxima página veja como
+Nas próxima página veja como são feitos os controles de estoques.
