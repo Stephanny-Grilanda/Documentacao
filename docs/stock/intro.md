@@ -9,4 +9,11 @@ title: "Introdução a Estoques"
 
 O usuário poderá criar seus próprios controles e utilizar os estoques para gerenciar produtos à venda, em manutenção, reservados para clientes etc.
 
-Nas próximas páginas veja como criar estoque, dar entrada em produtos, controlar o estoque de itens e pacotes.
+Veja abaixo os tipos de gerenciamentos disponíveis:
+
+- **Cadastro de Estoques:** permite a criação de estoques de acordo com a necessidade do usuário.
+- **Entrada no Estoque:** entrada realizada à partir do teste de funcionalidade.
+- **Controle de Estoque de Itens:** controle feito de acordo com a localização física do item na empresa.
+- **Controle de Pacotes:**
+
+Nas próximas páginas veja como esses gerenciamentos são feitos.
