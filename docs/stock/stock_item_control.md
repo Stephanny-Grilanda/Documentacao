@@ -3,11 +3,22 @@ sidebar_position: 4
 title: "Controle de Estoque de Itens"
 ---
 
-# Controle de Estoque
-
-## Controle de Estoque de item
+# Controle de Estoque de Item
 
 Diferentemente da entrada, o controle de estoque de itens é feita de forma manual, tendo como base a localização do item no estoque físico da empresa.
+
+:::info
+
+## Pré-requisitos
+
+- Ter acesso à página de estoque
+- Ter permissão de escrita
+- Ter um item cadastrado
+- Selecionar um **pedido** para movimentações de **entrada**
+- Selecionar um **motivo** para movimentações de **saída**
+  :::
+
+## Entrada de Item no Estoque
 
 Para realizar o controle da forma correta, siga os passos abaixo:
 
@@ -23,10 +34,19 @@ Para realizar o controle da forma correta, siga os passos abaixo:
   - **Saída:** a quantidade digitada será subtraída da quantidade atual do item.
 - Após preencher todos os campos clique em **`Salvar`**
 
+:::warning[IMPORTANTE!]
+
+- Se o estoque selecionado permitir entrada automática e a venda no ERP, o sistema irá cadastrá-lo e atualizar o ERP automaticamente.
+  :::
+
 ![ajuste de itens](/img/images/ajuste_itens.png)
 
-### Visualizar Historico
+### Visualizar Histórico
 
 Para visualizar o histórico de movimentações de um item, clique no botão **`Visualizar Histórico`** localizado em frente ao cadastro do mesmo.
 
-**COLOCAR IMAGEM DE VISUALIZAÇÃO DE ESTOQUE AQUI**
+![Visualizar histórico](/img/images/visualizar_estoque.png)
+
+O sistema irá exibir uma tela onde constam o código do produto, quantidade, tipo de entrada, estoque de destino e data de movimentação.
+
+![Painel histórico de estoque](/img/images/historico.png)
