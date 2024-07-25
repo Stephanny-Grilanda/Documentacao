@@ -77,7 +77,7 @@ Veja um exemplo de inclusão de produtos:
 Após adicionar os produtos é necessário registrar o pacote na Tiny para gerar o Tiny ID, para isto basta clicar em **`Registrar Tiny`**
 :::
 
-## Precificar Pacote
+### Precificar Pacote
 
 Para precificar um pacote clique em **`$ Precificar`**, defina o preço e clique em **`Salvar`**
 
@@ -89,4 +89,52 @@ Após a finalização do cadastro, o preço do pacote e seu ID na Tiny serão in
 
 ![Tela precificação](/img/images/lista_preco_manual.png)
 
+---
+
 ## Cadastro Automático de Pacote
+
+O cadastro automático de pacotes depende da existência de **[regras de criação de pacotes](docs\settings\stock.md)** cadastradas.
+
+No cadastro automático, os produtos são agrupados por compatibilidade, complementando uns aos outros. Ex: Um notebook poderá ter como complemento uma bateria, memória ram etc.
+
+### Passo a Passo
+
+1. Na parte superior da tela de controle de pacotes clique em **`QTD SKUS SEM PACOTES`**
+
+![Dashboard pacotes](/img/images/dash_pacotes.png)
+
+2. Perceba que o pacote não possui um Tiny ID cadastrado, desta forma é necessário **enviar o cadastro para Tiny** para que este fique disponível para venda e você consiga gerar o pacote.
+
+![Dashboard pacotes](/img/images/tiny_id.png)
+
+3. Após enviar o cadastro para Tiny, clique em **`Gerar Pacote`**
+
+![Dashboard pacotes](/img/images/cadastro_automatico_pacote.png)
+
+4. Caso o pacote tenha sido gerado corretamente, o sistema irá gerar a mensagem abaixo:
+
+![Dashboard pacotes](/img/images/pacote_criado.png)
+
+5. O pacote será incluído na lista onde poderá ser gerenciado. Clique em **`Registar Tiny`** para o pacote ser enviado para o ERP de vendas.
+
+![Dashboard pacotes](/img/images/registrar_tiny.png)
+
+6. Clique em **`$ Precificar`** para definir o preço do pacote, digite o valor desejado e clique em **`Salvar`**
+
+![Dashboard pacotes](/img/images/precificar_pacote.png)
+
+:::warning[ATENÇÃO!]
+
+## Informações Importantes
+
+- Se o produto não possuir um Tiny ID, ele não vai aparecer na Tiny quando o pacote for cadastrado. No entanto, caso o pacote seja vendido e o pedido caia no GAG, o sistema irá considerar que o produto está dentro do pacote.
+
+- Produtos podem ser adicionados ou removidos do pacote, para isto basta clicar em **`Gerenciar Pacote`** e seguir os passos:
+
+  - Para adicionar: selecione o item ou SKU, a quantidade desejada e depois clique em **`Adicionar`**
+  - Para remover: selecione o produto e clique em **`Arquivar`**
+  - Feche a página de gerenciamento e clique em **`Atualizar`**
+
+- Sempre que adicionar ou remover produtos de um pacote, você deverá clicar em **`Atualizar Tiny`**
+
+:::
