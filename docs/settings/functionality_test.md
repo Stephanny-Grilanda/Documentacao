@@ -101,17 +101,3 @@ Siga os passos abaixo para cadastrar uma regra:
 O exemplo a seguir mostra o cadastro de regra para o campo cadastrado no início do tutorial, onde não selecionamos relevância ou local, desta forma devemos utilizar uma regra de **Valor**
 
 ![Campo cadastro regra sku](/img/images/regra_sku.png)
-
-## Destinos de Testes de Funcionalidade
-
-O processo de cadastrar destinos para os testes de funcionalidade é simples e rápido.
-
-Para isso, acesse a página de destinos de teste:
-
-![Caminho destino teste de funcionalidade](/img/images/destino_teste.png)
-
-- Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela
-
-## Regras de SKU
-
-## Regras de SKU Dispositivos de Armazenamento

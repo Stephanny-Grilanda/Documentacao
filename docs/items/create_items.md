@@ -46,12 +46,22 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 
 ![Tela de Cadastro](/img/images/cadastro_item.png)
 
-:::info
+:::note
 
 Após o cadastro, o item será incluído em uma lista que apresenta seu id, código, tipo de hardware, fabricante, modelo, nome, status e ações. Veja o exemplo abaixo:
 
 :::
 
 ![Listagem de itens](/img/images/lista_itens.png)
+
+:::info[NOTAS]
+
+### Prefixos
+
+- A letra P seguida de um número é referente ao prefixo de SKU de produto e o número refere-se ao SKU em si.
+- As letras SD seguidas de um número são referentes ao prefixo de SKU de dispositivos de armazenamento e o número refere-se ao SKU em si.
+- As letras PC seguidas de um número são referentes ao prefixo do código do item, os itens por sua vez não possuem SKU, pois possuem um código próprio.
+- A letra K seguida de um número é referente ao prefixo de um pacote, o número por sua vez refere-se ao código do pacote.
+  :::
 
 Na próxima página veja as ações que estão disponíveis para os itens cadastrados!
