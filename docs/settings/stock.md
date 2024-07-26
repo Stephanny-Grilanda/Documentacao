@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 title: "Configurações de Estoque"
 ---
 
@@ -7,4 +7,4 @@ title: "Configurações de Estoque"
 
 ## Regras de Estoque de Dispositivos de Armanezamento
 
-## Destinos de Criação de Pacotes
+## Regras de Criação de Pacotes
