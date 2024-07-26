@@ -22,7 +22,7 @@ Para realizar a transferência de produtos, siga os passos abaixo:
 - Ter acesso de escrita à página de transferência
 - Ter acesso de leitura à página de transferência
 - Possuir setores atrelados
-- Ter regras de transferências cadastradas
+- Ter **[regras de transferência](docs\settings\movements.md)** cadastradas
   :::
 
 ## Realizar Transferência
@@ -33,7 +33,7 @@ Para realizar a transferência de produtos, siga os passos abaixo:
 - Descreva o motivo pelo qual o produto está sendo transferido
 - Clique em **`Salvar`**
 
-![Tela Tranferência](/img/images/tela_transferencia.png)
+![Tela Tranferência](/img/images/exemplo_transferencia.png)
 
 :::info
 Após o cadastro, é necessário que a pessoa responsável pela área confirme a transferência para que esta possa ser efetivada.
@@ -66,8 +66,14 @@ Para confirma uma transferência siga os passos abaixo:
 - Clique em **Reprovar** para cancelar a transferência.
 - Clique em **`Salvar`**
 
-**_COLOCA UMA IMAGEM AQUI_**
+Veja um exemplo de como a aprovação é feita:
+
+![Aba Confirmar Transferência](/img/images/aprovar_transferencia.png)
+
+Após salvar a ação, a seguinte mensagem irá aparecer na tela:
+
+![Aba Confirmar Transferência](/img/images/confirmar_transferência.png)
 
 :::warning
-Caso a transferência seja reprovada, o produto coninuará no setor origem até que uma nova transferência seja cadastrada e autorizada pelo responsável!
+Caso a transferência seja reprovada, o produto continuará no setor origem até que uma nova transferência seja cadastrada e autorizada pelo responsável!
 :::
