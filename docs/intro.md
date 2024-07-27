@@ -38,7 +38,7 @@ A **[eliminação de dados](./data_deleting/intro.md)** é um processo simples d
 
 ## Itens
 
-Os **[itens](./items/intro.md)** são um dos tipos de produtos gerenciados pela GAG e, assim como os tipos de hardware, podem ser **[cadastrados](./items/create_items.md)**, possuem diversas **[ações disponíveis](./items/actios.md)**. Além disso, você também pode **[exportar os dados](./items/list.md)**
+Os **[itens](./items/intro.md)** são um dos tipos de produtos gerenciados pela GAG e, assim como os tipos de hardware, podem ser **[cadastrados](./items/create_items.md)**, possuem diversas **[ações disponíveis](./items/actions.md)**. Além disso, você também pode **[exportar os dados](./items/list.md)**
 
 ---
 

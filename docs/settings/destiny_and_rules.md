@@ -11,11 +11,11 @@ Para isso, acesse a página de destinos de teste:
 
 ![Caminho destino teste de funcionalidade](/img/images/destino_teste.png)
 
-- Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela
+- Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela.
 
-- Digite o nome do destino, o mesmo será apresentado nos relatórios
+- Digite o nome do destino, o mesmo será apresentado nos relatórios.
 
--
+- Digite a descrição referente ao destino do teste.
 
 - Clique em **`Salvar`**
 
