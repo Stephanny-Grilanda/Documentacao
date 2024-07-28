@@ -5,13 +5,13 @@ title: "Ações"
 
 # Ações
 
-Ainda na tela de modelos é possível realizar ações com cada tipo de hardware. Veja abaixo quais são e como funciona cada uma delas:
+O sistema disponibiliza algumas ações para os modelos cadastrados. Veja abaixo quais são e como funciona cada uma delas:
 
 ![ações disponíveis para modelos](/img/images/acoes_modelos.png)
 
 ## Arquivar
 
-Arquiva os modelos que não serão utilizados. Uma vez arquivados, os itens ficarão inativos e poderão ser encontrados facilmente usando os filtros.
+Arquiva os modelos que não serão utilizados. **Uma vez arquivados, os itens ficarão inativos** e poderão ser encontrados facilmente usando os filtros.
 
 Siga os passos abaixo para arquivar modelos:
 
@@ -38,5 +38,5 @@ Para editar o modelo siga os passos abaixo:
 ## Preencher Especifições
 
 :::info
-Para preencher especificações é necessário opções de campos cadastradas!
+Para preencher especificações é necessário ter opções de campos cadastradas!
 :::

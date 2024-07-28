@@ -5,11 +5,10 @@ title: "Cadastrar tipo de hardware"
 
 # Cadastrar Tipo de Hardware :computer:
 
-Para cadastrar os tipos de hardware, é necessário seguir o caminho abaixo:
+Para acessar a aba de cadastro de tipos de hardware, é necessário seguir o caminho abaixo:
 
-- Guia produtos
-- Cadastro
-- Tipo de Hardware
+- Clique na guia produtos
+- Clique em **`Tipo de Hardware`**
 
 ![Caminho para acessar os tipos de hardware](/img/images/Caminho_tipos_hardware.png)
 
@@ -43,7 +42,7 @@ Para criar um tipo de hardware é necessário preencher todos os resquisitos a s
   - **Item:** tudo que é controlado em massa, por quantidade
 - Clique em **`salvar`**
 
-![Tela de Cadastro](/img/images/telaCadastro.png)
+![Tela de Cadastro de Tipos de Hardware](/img/images/telaCadastro.png)
 
 :::info
 
@@ -51,6 +50,6 @@ Após o cadastro, o tipo de hardware será incluído na lista de tipos de hardwa
 
 :::
 
-![Listagem de tipos de hardware](/img/images/telaCadastro2.png)
+![Listagem de Tipos de Hardware](/img/images/telaCadastro2.png)
 
 Veremos como consultar os tipos de hardware no próximo tópico!

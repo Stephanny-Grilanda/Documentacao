@@ -3,19 +3,21 @@ sidebar_position: 4
 title: "Ações"
 ---
 
-# Ações
+# Ações :pen:
 
-Ainda na tela de tipos de hardware é possível realizar ações com cada tipo de hardware. Veja abaixo quais são e como funciona cada uma delas:
+O sistema disponibiliza algumas ações para os tipos de hardware cadastrados. Veja abaixo quais são e como utilizar cada uma delas:
 
-![ações disponíveis no sistema](/img/images/acoes.png)
+![Ações disponíveis para os tipos de hardware](/img/images/acoes.png)
 
 ## Arquivar
 
-Arquiva os tipos de hardware que não serão utilizados. Após arquivados os itens ficarão inativos e poderão ser localizados através dos filtros.
+Arquiva os tipos de hardware que não serão utilizados no momento.
 
-Ao clicar em **`Arquivar`** irá aparecer a mensagem "Deseja continuar?", clique em **`Arquivar`** para confirmar a ação.
+Os **cadastrados arquivados** ficarão com o **status inativo**, mas poderão ser visualizados através do uso de filtros, como será visto posteriormente.
 
-![ações disponíveis no sistema](/img/images/confirmacao_arquivar.png)
+Ao clicar em **`Arquivar`** o sistema gerará a mensagem "Deseja continuar?", clique em **`Arquivar`** para confirmar a ação.
+
+![Aviso do sistema para confirmar o arquivamento de tipos de hardware](/img/images/confirmacao_arquivar.png)
 
 ## Adicionar Fabricante
 
@@ -28,29 +30,38 @@ Pré requisitos para adicionar um fabricante:
 - Ter um hardware cadastrado
   :::
 
-O sistema permite adicionar fabricantes para cada tipo de hardware, para isso clique em **adicionar fabricante**, digite o nome e clique em **`salvar`**
+O sistema permite que o usuário adicione fabricantes para cada tipo de hardware cadastrado. Para isso clique em **adicionar fabricante**, digite o nome do mesmo e clique em **`Salvar`**
 
-![ações disponíveis no sistema](/img/images/fabricante.png)
+![Tela de cadastro de fabricantes](/img/images/fabricante.png)
 
 ## Editar
 
 :::info
-Para editar os tipos de hardware e fabricantes é necessário ter permissão de atualização
+O sistema permite que o usuário faça alterações nos tipos de hardware e fabricantes, para isto, é necessário que o usuário possua **permissão de atualização**.
 :::
 
 ### Editar Tipo de Hardware
 
-Nesse campo você pode editar o nome do tipo de hardware, basta realizar a alteração e clicar em **`Salvar`**
-![ações disponíveis no sistema](/img/images/editar.png)
+Para editar um tipo de hardware siga os passos abaixo:
+
+- Selecione o tipo de hardware que deseja alterar
+- Clique em **`...`**
+- Clique em **`Editar`**
+- Faça a alteração necessária
+- Clique em **`Salvar`**
+
+![Tela de edição de tipo de hardware](/img/images/editar.png)
 
 ### Editar Fabricante
 
-Para editar um fabricante siga os passos a seguir:
+Para editar um fabricante siga os passos abaixo:
 
-- Clique em cima do número de fabricantes referente ao tipo de hardware em questão
-- Clique em ações e selecione **`Editar Fabricante`**
-- Faça a alteração do nome e clique em **`Salvar`**
+- Clique em cima do número de fabricantes referente ao tipo de hardware que deseja alterar
+- Clique em **`...`**
+- Clique em **`Editar Fabricante`**
+- Faça a alteração necessária
+- Clique em **`Salvar`**
 
 Veja abaixo um exemplo de tipo de hardware com fabricantes cadastrados:
 
-![ações disponíveis no sistema](/img/images/editar_fabricante.png)
+![Tela de edição de tipo de fabricante](/img/images/editar_fabricante.png)
