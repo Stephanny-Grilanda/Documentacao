@@ -44,7 +44,7 @@ Os **[itens](./items/intro.md)** são um dos tipos de produtos gerenciados pela 
 
 ## Consultas
 
-As **[consultas](./queries/intro.md)** podem ser feitas de forma fácil e rápida. Para realizá-las, basta que os produtos estejam **[cadastrados](./orders/create_products.md)** e **[testados](./functionality_test/test.md)**.
+As **[consultas](./queries/intro.md)** de produtos podem ser feitas de forma fácil e rápida. Para realizá-las, basta que os produtos estejam **[cadastrados](./orders/create_products.md)** e **[testados](./functionality_test/test.md)**.
 
 ---
 
@@ -69,6 +69,8 @@ As **[transferências](./transfer/intro.md)** tem como função transferir os pr
 ## Vendas
 
 Através da aba de **[vendas](./sales/intro.md)** é possível ver e precificar os **[produtos, dispositivos, itens e pacotes](./sales/stock_map.md)** disponíveis no estoque, **[adicionar pedidos de vendas](./sales/sales_orders.md)**, realizar a **[separação e preparação dos pedidos](./sales/sales_orders.md)** que foram cadastrados e, por fim, **[embalar e enviar os pedidos](./sales/send_orders.md)**.
+
+---
 
 ## Configurações
 

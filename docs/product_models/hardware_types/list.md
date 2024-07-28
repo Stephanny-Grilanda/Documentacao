@@ -5,7 +5,7 @@ title: "Consultar tipos de Hardware"
 
 # Consultar Tipos de Hardware :mag:
 
-Para consultar os tipos de hardware você pode pesquisar pelo nome, utilizar filtros, definir quantidade de itens exibidos por página e fazer exportações de planilhas. Confira abaixo como realizar cada tipo de consulta!
+Para consultar os tipos de hardware, o usuário pode pesquisar pelo nome, utilizar filtros, definir quantidade de itens exibidos por página e fazer exportações de planilhas. Confira abaixo como realizar cada tipo de consulta!
 
 ## Pesquisar tipos de Hardware
 
