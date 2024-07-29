@@ -7,19 +7,16 @@ title: "Entrada no Estoque"
 
 Nesta página encontram-se os produtos cadastrados nos pedidos que estão aguardando entrada nos estoques.
 
-**Para acessar a página siga os passos abaixo:**
+## Acessar aba entrada no estoque
 
-- Clique na guia **`Estoques`**
-- Controle
-- Entrada no Estoque
+- Clique na aba **`Estoques`**
+- Clique em **`Entrada no Estoque`**
 
 ![Aba Controle de Estoque](/img/images/entrada_estoque.png)
 
-## Pré-requisitos
-
-Para realizar alterações é necessário preencher os requisitos abaixo:
-
 :::info
+
+## Pré-requisitos
 
 - Ter acesso à página de estoques
 - Ter permissão de escrita à página de estoques
@@ -41,7 +38,7 @@ A entrada no estoque acontece da seguinte forma:
 Para que o processo de entrada de estoque ocorra da maneira correta, é necessário que todas as regras abaixo sejam cumpridas:
 :::
 
-1. Todos os produtos devem ter sido testados para que possam ser incluídos no estoque.
+1. **Todos os produtos devem ter sido testados** para que possam ser incluídos no estoque.
 
 :::warning[IMPORTANTE!]
 Os produtos que forem testados, mas que não tiverem nenhum destino vinculado, **não entrarão no estoque.**
@@ -56,3 +53,5 @@ Os produtos que forem testados, mas que não tiverem nenhum destino vinculado, *
 :::info
 Se o estoque selecionado permitir entrada automática e a venda no ERP, o sistema irá cadastrá-lo e atualizar o ERP automaticamente.
 :::
+
+Veja na próxima página como é feito o controle de estoque de itens!

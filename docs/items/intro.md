@@ -3,8 +3,10 @@ sidebar_position: 1
 title: "Introdução aos Itens"
 ---
 
-# Introdução aos Itens :camera:
+# Introdução aos Itens :desktop_computer:
 
-Os itens são os produtos controlados através de quantidades pela empresa.
+Os itens são os produtos controlados através de quantidades pela empresa e que, após o cadastro, poderão ser colocados à venda ou adicionados aos pacotes através da aba de estoques.
 
-Veja nas páginas à seguir como cadastrar, listas e alterar itens.
+O sistema permite que o usuário [cadastre itens](./create_items.md), realize [consultas](./list.md) na página e [altere](./actions.md) os itens cadastrados.
+
+Veja nas próximas páginas como estes processos são realizados.

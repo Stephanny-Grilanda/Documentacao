@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Transferir Produtos"
 ---
 
-# Transferir Produtos
+# Transferir Produtos :computer:
 
 Para realizar a transferência de produtos, siga os passos abaixo:
 
@@ -77,3 +77,5 @@ Após salvar a ação, a seguinte mensagem irá aparecer na tela:
 :::warning
 Caso a transferência seja reprovada, o produto continuará no setor origem até que uma nova transferência seja cadastrada e autorizada pelo responsável!
 :::
+
+Veja nas próximas páginas como é feito o gerenciamento dos estoques!

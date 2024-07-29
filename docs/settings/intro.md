@@ -3,10 +3,8 @@ sidebar_position: 1
 title: "Intro"
 ---
 
-# Introdução
+# Introdução :desktop_computer:
 
-As configurações permitem o gerenciamento do cadastro de produtos, estoques, transferências, campos de especificação, usuários, entre outros.
+As configurações permitem ao usuário **[configurar os campos de testes de funcionalidade](./functionality_test.md)**, definir **[destinos e regras de SKU](./destiny_and_rules.md)**, criar **[regras de transferências](./movements.md)**, configurar **[regras de estoque e controle de pacotes](./stock.md)**, criar **[campos de especificação para modelos](./model_specifications.md)** e gerenciar as **[autenticações](./authentication.md)** do sistema.
 
-Nas próximas páginas você verá como cadastrar campos de testes e especificações, definir destinos para testes de funcionalidade, criar regras para estoques e transferências e realizar autenticações para usuários, setores, cargos etc.
-
-Veja a seguir como esses processos são realizados.
+Veja nas próximas páginas como realizar cada um desses processos.

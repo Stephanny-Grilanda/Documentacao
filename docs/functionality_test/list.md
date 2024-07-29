@@ -5,6 +5,8 @@ title: "Consultar Produtos para Teste"
 
 # Consultar Produtos para Teste :mag:
 
+O sistema permite que o usuário consulte, filtre e faça exportações dos produtos que estão disponíveis para testes ou que já foram testados.
+
 Para consultar os produtos, você pode pesquisar pelo código de barras, tipo de hardware, fabricante, modelo, número de série, ou Sku. Além disso, é possível utilizar filtros, definir quantidade de itens exibidos por página e fazer exportações de planilhas. Confira abaixo como realizar cada tipo de consulta!
 
 ## Pesquisar Produto
@@ -13,9 +15,13 @@ Para pesquisar um produto siga os seguintes passos:
 
 - Guia Produtos
 - Teste de Funcionalidade
-- Digite no campo `PESQUISAR` a informação referente ao produto que deseja pesquisar, pode ser o modelo, sku etc.
+- Digite no campo `PESQUISAR` a informação referente ao produto que deseja pesquisar
 
 ![Campo de pesquisa](/img/images/pesquisar.png)
+
+:::info
+O sistema permite que o usuário pesquise o produto por código de barras, tipo de hardware, fabricante, modelo, número de série, ou Sku.
+:::
 
 ## Filtrar Produtos
 
@@ -58,3 +64,5 @@ Para realizar as exportações clique no ícone de **download** localizado ao la
 - Escolha a pasta de destino onde deseja salvar o arquivo
 - Nomeie o arquivo
 - Clique em **`Salvar`**
+
+Veja nas próximas páginas como as transferências são realizadas!

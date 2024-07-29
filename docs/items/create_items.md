@@ -3,13 +3,14 @@ sidebar_position: 2
 title: "Cadastrar Itens"
 ---
 
-# Cadastrar Itens :computer_mouse:
+# Cadastrar Itens :computer:
 
-Para cadastrar os itens, é necessário seguir o caminho abaixo:
+O sistema permite que usuário cadastre itens para vendas posteriores, veja abaixo como acessar a página de cadastro de itens e como realizar os cadastros.
 
-- Guia produtos
-- Cadastro
-- Itens
+## Acessar página de itens
+
+- Clique na guia **Produtos**
+- Clique em **`Itens`**
 
 ![Caminho para acessar os itens](/img/images/caminho_itens.png)
 
@@ -33,7 +34,7 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 | Código    | Entrada de texto | **Sim**     | Código do Equipamento         |
 | Descrição | Entrada de texto | **Sim**     | Descrição do Equipamento      |
 
-## Passo a Passo para Preenchimento
+## Passo a Passo para Cadastro
 
 - Clique no botão cadastrar novo, localizado no canto superior direito da tela
 - Selecione o Modelo

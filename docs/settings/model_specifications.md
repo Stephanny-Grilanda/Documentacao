@@ -5,17 +5,28 @@ title: "Especificações de Modelos"
 
 # Especificações de Modelos
 
-## Campos de Especificação
+## Campos de Especificações
 
-Os campos de especificação devem ser cadastrados para que o usuário possa, posteriormente, preencher as especificações de cada modelo cadastrado.
+O sistema permite que o usuário crie campos de especificações que serão utilizados para o atribuir as características referentes aos modelos gerenciados pela empresa.
 
 Veja abaixo como é feito o cadastro de um campo de especificação.
 
-### Passo a Passo
+## Acessar a página de campos de especificação
 
-- Acesse página de campos de especificação através da guia configurações
+- Clique na aba **Configurações**
+- Clique em **Campos Especificações**
 
 ![Aba Campos de Especificação](/img/images/aba_campos_especificacao.png)
+
+:::info
+
+## Pré-requisitos
+
+- Ter acesso à página de campos de especificações.
+- Ter permissão de escrita à página de campos de especificações.
+  :::
+
+## Passo a Passo
 
 - Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela
 - Selecione o tipo de hardware
@@ -25,7 +36,7 @@ Veja abaixo como é feito o cadastro de um campo de especificação.
 - Escolha o atributo que será utilizado no campo
 - Clique em **`Salvar`**
 
-### Exemplo:
+### Exemplo
 
 Para este exemplo, utilizaremos como tipo de hardware uma capa para tablet. Veja abaixo como um campo de especificação é cadastrado e como ele é utilizado para definir as especificações de um modelo.
 
@@ -59,4 +70,8 @@ Para este exemplo, utilizaremos como tipo de hardware uma capa para tablet. Veja
 
 ![Especificação cadastrada](/img/images/espec_cadastrada.png)
 
+:::info
 Após todo esse processo a especificação será incluída no cadastro do modelo.
+:::
+
+Veja na próxima página como configurar as autenticações do sistema!

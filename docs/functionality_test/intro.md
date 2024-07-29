@@ -1,9 +1,12 @@
 ---
 sidebar_position: 1
+title: Introdução aos Testes de Funcionalidade
 ---
 
-# Introdução aos Testes de Funcionalidade
+# Introdução aos Testes de Funcionalidade :desktop_computer:
 
-Os testes de funcionalidade são muito importantes para o negócio, pois é através deles que será definido o destino das mercadorias recebidas pela empresa.
+Os testes de funcionalidade são uma parte fundamental dos processos da empresa, é através deles que os usuários poderão testar as mercadorias recebidas pela empresa e definir o melhor destino para cada uma delas.
 
-Veja nas próximas páginas como os testes funcionam e como realizá-los.
+O sistema permite que o usuário **[consulte](./list.md)** os produtos disponíveis para teste e realize o **[teste de funcionalidade](./test.md)** de cada um deles antes de definir o seu destino.
+
+Veja nas próximas páginas como as consultas e os testes de funcionalidade são realizados.

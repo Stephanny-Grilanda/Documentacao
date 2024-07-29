@@ -138,3 +138,5 @@ No cadastro automático, os produtos são agrupados por compatibilidade, complem
 - Sempre que adicionar ou remover produtos de um pacote, você deverá clicar em **`Atualizar Tiny`**
 
 :::
+
+Veja nas próximas páginas como os processos de vendas são realizadas!

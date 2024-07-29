@@ -3,9 +3,9 @@ sidebar_position: 1
 title: "Introdução às transferências"
 ---
 
-# Introdução às Transferências
+# Introdução às Transferências :desktop_computer:
 
-As transferências possibilitam o envio de produtos entre diferentes setores da empresa, sendo importante que sua execução seja feita corretamente para assegurar a eficiência dos processos.
+As **[transferências](./create_transfer.md)** possibilitam o envio de produtos entre diferentes setores da empresa, sendo importante que sua execução seja feita corretamente para assegurar a eficiência dos processos.
 
 ## Setores Disponíveis para Transferência
 
