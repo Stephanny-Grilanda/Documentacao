@@ -50,3 +50,5 @@ Para visualizar o histórico de movimentações de um item, clique no botão **`
 O sistema irá exibir uma tela onde constam o código do produto, quantidade, tipo de entrada, estoque de destino e data de movimentação.
 
 ![Painel histórico de estoque](/img/images/historico.png)
+
+Veja na próxima página como é realizado o controle de pacotes!

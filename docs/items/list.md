@@ -5,7 +5,7 @@ title: "Consultar Itens"
 
 # Consultar Itens :mag:
 
-Para consultar os tipos de hardware você pode realizar pesquisas, utilizar filtros, definir quantidade de itens exibidos por página e fazer exportações de planilhas. Confira abaixo como realizar cada tipo de consulta!
+Para consultar os itens cadastrados, o usuário pode realizar pesquisas, utilizar filtros, definir a quantidade de itens exibidos por página e fazer exportações de planilhas. Confira abaixo como realizar cada tipo de consulta!
 
 ## Pesquisar item
 
@@ -45,4 +45,4 @@ Para realizar as exportações clique no ícone de **download** localizado ao la
 - Nomeie o arquivo
 - Clique em **`Salvar`**
 
-No tópico a seguir veremos quais ações podem ser realizadas para cada tipo de hardware!
+No tópico a seguir veremos quais ações podem ser realizadas para os itens!

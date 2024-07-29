@@ -5,13 +5,12 @@ title: "Consulta por SKU"
 
 # Consulta por SKU :mag:
 
-As consultas servem para pesquisar os produtos que já foram cadastrados e testados.
+Através das consultas, o sistema permite que o usuário consulte os produtos que já foram cadastrados e testados.
 
-Siga o caminho abaixo para acessar a guia de consultas:
+Siga o caminho abaixo para acessar a página de consultas:
 
-- Guia de produtos
-- Consultas
-- Clique em Skus
+- Clique em **Produtos**
+- Clique em **`Skus`**
 
 ![caminho consultas](/img/images/caminho_consulta.png)
 
@@ -31,3 +30,5 @@ Siga o caminho abaixo para acessar a guia de consultas:
 - As letras PC seguidas de um número são referentes ao prefixo do código do item, os itens por sua vez não possuem SKU, pois possuem um código próprio.
 - A letra K seguida de um número é referente ao prefixo de um pacote, o número por sua vez refere-se ao código do pacote.
   :::
+
+À seguir veja como são realizados os testes de funcionalidade.

@@ -5,22 +5,20 @@ title: "Cadastrar Estoques"
 
 # Cadastrar Estoques :clipboard:
 
-O cadastro de estoques é feito de forma simples e tem como objetivo facilitar o gerenciamento de produtos de acordo com a necessidade da empresa.
+O sistema permite que o usuário cadastre estoques para que os produtos gerenciados pela empresa possam ser agrupados de acordo com o processo em que se encontram.
 
-Siga o passo a passo para aprender a cadastrar estoques.
+Veja abaixo como o processo de cadastro de estoque é realizado.
 
 ## Acessar a Aba de Cadastro
 
 - Clique na guia **`Estoques`**
 - Na parte **CADASTRO** clique em **Estoques**
 
-  ![aba estoques](/img/images/aba_estoques.png)
+![aba estoques](/img/images/aba_estoques.png)
 
 :::info
 
 ## Pré-requisitos
-
-Para conseguir cadastrar estoques é necessário preencher os requisitos abaixo:
 
 - Ter acesso à página de cadastro de estoque
 - Ter permissão de escrita à página de estoques
@@ -34,7 +32,7 @@ Para conseguir cadastrar estoques é necessário preencher os requisitos abaixo:
 - Selecione se o estoque será sincronizado com o ERP automaticamente
 - Clique em **Salvar**
 
-  ![Tela Cadastrar Estoques](/img/images/cadastrar_estoque.png)
+![Tela Cadastrar Estoques](/img/images/cadastrar_estoque.png)
 
 ## Lista de Estoques
 
@@ -46,4 +44,4 @@ Após o cadastro, o estoque será incluído numa lista onde constará seu nome, 
 Para pesquisar um estoque basta digitar o nome do mesmo no campo **`PESQUISAR`**
 :::
 
-Nas próxima página veja como são feitos os controles de estoques.
+Nas próxima página veja como são realizadas as entradas no estoque!

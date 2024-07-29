@@ -5,18 +5,25 @@ title: "Destinos de Testes e Regras de SKU"
 
 ## Destinos de Testes de Funcionalidade
 
-O processo de cadastrar destinos para os testes de funcionalidade é simples e rápido.
+O sistema permite ao usuário definir os destinos dos produtos que serão testados nos testes de funcionalidade. Veja abaixo como o processo é feito.
 
-Para isso, acesse a página de destinos de teste:
+### Acessar a página de destino de testes
 
 ![Caminho destino teste de funcionalidade](/img/images/destino_teste.png)
 
+:::info
+
+### Pré-requisitos
+
+- Ter acesso à página de destino de testes
+- Ter permissão de escrita à página de destino de testes
+  :::
+
+### Passo a Passo
+
 - Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela.
-
 - Digite o nome do destino, o mesmo será apresentado nos relatórios.
-
 - Digite a descrição referente ao destino do teste.
-
 - Clique em **`Salvar`**
 
 ![Tela cadastro de destino](/img/images/cadastrar_destino.png)
@@ -25,11 +32,21 @@ Para isso, acesse a página de destinos de teste:
 
 As regras de SKU têm por objetivo definir a forma como as infomações de SKU irão aparecer nos relatórios.
 
-### Cadastrar Regras de SKU
+### Acessar a página de Regras de SKU
 
 - Acesse a página de Regras de SKU através da guia configurações
 
 ![Caminho regras de SKU](/img/images/aba_regras_sku.png)
+
+:::info
+
+### Pré-requisitos
+
+- Ter acesso à página de regras de SKU
+- Ter permissão de escrita à página de regras de SKU
+  :::
+
+### Passo a Passo
 
 - Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela
 - Escolha a **área do SKU** na qual a regra deverá ser aplicada
@@ -59,11 +76,21 @@ Após o cadastro, a regra será incluída em uma lista que contém todas as regr
 
 As regras de SKU tem como objetivo definir como os dispositivos de armazenamento aparecerá nos relatórios de SKU.
 
-### Cadastrar Regra
+### Acessar página de regras de SKU Disp. Armazenamento
 
 - Acesse a página de Regras de SKU de Dispositivos de Armazenamos através da guia de configurações
 
 ![Caminho regras de SKU de Dispositivos de Armazenamento](/img/images/aba_regras_dispositivo.png)
+
+:::info
+
+### Pré-requisitos
+
+- Ter acesso à página de regras de SKU de dispositivos de armazenamento
+- Ter permissão de escrita à página de regras de SKU dispositivos de armazenamento
+  :::
+
+### Passo a Passo
 
 - Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela
 - Escolha o **Tipo de Hardware** para o qual deseja cadastrar uma regra.
@@ -73,3 +100,5 @@ As regras de SKU tem como objetivo definir como os dispositivos de armazenamento
 Veja abaixo um exemplo de como a regra é cadastrada.
 
 ![Tela Cadastrado Regras de SKU de Dispositivos de Armazenamento](/img/images/tela_sku_dispositivo.png)
+
+Veja na próxima página como são realizadas as configurações de transferência de produtos!

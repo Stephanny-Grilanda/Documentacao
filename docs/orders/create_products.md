@@ -3,13 +3,12 @@ sidebar_position: 2
 title: "Cadastrar Produtos"
 ---
 
-# Cadastrar Produtos :printer:
+# Cadastrar Produtos :computer:
 
 Para cadastrar os produtos, é necessário seguir o caminho abaixo:
 
-- Guia produtos
-- Pedidos
-- Subtópico pedidos
+- Clique na guia Produtos
+- Clique em **Pedidos**
 
 ![Caminho para acessar os pedidos](/img/images/aba_pedidos.png)
 

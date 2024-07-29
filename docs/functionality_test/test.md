@@ -2,13 +2,12 @@
 sidebar_position: 2
 ---
 
-# Testar Produtos
+# Testar Produtos :computer:
 
 Para acessar a página Teste de Funcionalidade siga o caminho abaixo:
 
-- Guia Produtos
-- Informações
-- Clique em **Teste de Funcionalidade**
+- Clique na aba **Produtos**
+- Clique em **`Teste de Funcionalidade`**
 
 ![Caminho página de teste](/img/images/caminho_teste.png)
 
@@ -20,7 +19,7 @@ Após acessar a página, será possível visualizar todos os produtos que estão
 
 :::info
 
-## Pré-requisitos para Realizar Testes de Funcionalidade
+## Pré-requisitos
 
 - Ter produtos cadastrados
 - Ter especificações dos produto cadastradas
@@ -48,4 +47,6 @@ Para realizar o teste de funcionalidade de terminado produto siga os passos abai
 
 - Quando a etapa for concluída, o sistema irá exibir uma mensagem de confirmação.
 
-![Tela Funcionalidade](/img/images/confirmacao_teste.png)
+![Confirmação de registro de teste de funcionalidade](/img/images/confirmacao_teste.png)
+
+Veja na próxima página como consultar os produtos para teste

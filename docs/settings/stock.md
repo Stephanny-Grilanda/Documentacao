@@ -11,11 +11,21 @@ As regras de estoque de dispositivos de armazenamento servem para definir para q
 
 Veja abaixo como cadastrar uma regra:
 
-### Passo a Passo
+### Acessar a página de Regras de Estoque
 
 - Acesse a página de Regras de Estoque de Dispositivos de Armazenamento através da guia de configurações
 
 ![caminho campos de teste](/img/images/aba_regras_estoque.png)
+
+:::info
+
+### Pré-requisitos
+
+- Ter acesso à página de regras de estoque de dispositivos de armazenamento.
+- Ter permissão de escrita à página de estoque de dispositivos de armazenamento.
+  :::
+
+### Passo a Passo
 
 - Clique no botão **`Adicionar Regra`** localizado no canto superior direito da tela
 - Selecione o tipo de hardware
@@ -39,11 +49,21 @@ O sistema testa a compatibilidade de produtos atráves das especificações cada
 
 :::
 
-### Passo a Passo
+### Acessar a página de regras de criação de pacotes
 
 - Acesse a página de Regras de Criação de pacotes através da guia Configurações
 
 ![caminho regras de pacote](/img/images/aba_regras_pacotes.png)
+
+:::info
+
+### Pré-requisitos
+
+- Ter acesso à página de regras de criação de pacotes
+- Ter permissão de escrita à página de regras de criação de pacotes
+  :::
+
+### Passo a Passo
 
 - Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela
 - Selecione o tipo de hardware
@@ -65,3 +85,5 @@ Veja um exemplo de criação de regra de pacote:
 - **O sistema segue uma ordem para definir a compatibilidade entre produtos:** primeiro avalia as regras por opções, em seguida por modelos e, por último, por tipos de hardware.
 - **Não é obrigatório selecionar modelos ou opções**, mas se nenhum modelo for selecionado, o sistema irá aplicar a regra cadastrada a todos os tipos de hardware iguais ao que foi selecionado no momento da criação da regra.
   :::
+
+Veja na próxima página como são configurados os campos de especificações de modelos!

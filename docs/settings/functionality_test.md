@@ -101,3 +101,5 @@ Siga os passos abaixo para cadastrar uma regra:
 O exemplo a seguir mostra o cadastro de regra para o campo cadastrado no início do tutorial, onde não selecionamos relevância ou local, desta forma devemos utilizar uma regra de **Valor**
 
 ![Campo cadastro regra sku](/img/images/regra_sku.png)
+
+Veja na próxima página como são realizadas as configurações de destino de testes e regras de SKU!

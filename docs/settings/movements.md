@@ -20,19 +20,19 @@ Essas regras serão utilizadas na página de **[transferências](docs\transfer\c
 
 :::
 
-## Passo a Passo
+## Acessar a página de regras de transferência
 
-1. Acesse a página de Regras de Transferências através da aba de configurações.
+- Clique na aba **Configurações**
+- Clique em **`Regras de Transferência`**
 
 ![Aba Regras de Transferências](/img/images/aba_regras_transferencia.png)
 
-2. Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela.
+## Passo a Passo
 
-3. Selecione o **setor de origem**, onde o produto se encontra no momento da transferência.
-
-4. Selecione o **setor de destino**, para onde o produto será enviado.
-
-5. Clique em **`Salvar`**
+- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela.
+- Selecione o **setor de origem**, onde o produto se encontra no momento da transferência.
+- Selecione o **setor de destino**, para onde o produto será enviado.
+- Clique em **`Salvar`**
 
 ![Aba Regras de Transferências](/img/images/regras_destino.png)
 
@@ -42,3 +42,5 @@ Após o cadastro, as regras serão incluídas em uma lista onde constam as rela�
 :::
 
 ![Lista de regras de transferências](/img/images/lista_regras_transferencia.png)
+
+Veja na próxima página como são realizadas as configurações de estoques!
