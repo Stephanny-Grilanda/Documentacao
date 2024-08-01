@@ -5,7 +5,7 @@ title: "Cadastrar Itens"
 
 # Cadastrar Itens :computer:
 
-O sistema permite que usuário cadastre itens para vendas posteriores, veja abaixo como acessar a página de cadastro de itens e como realizar os cadastros.
+O sistema permite que o usuário cadastre itens para futuras vendas. Veja abaixo como acessar a página de cadastro de itens e realizar os registros.
 
 ## Acessar página de itens
 

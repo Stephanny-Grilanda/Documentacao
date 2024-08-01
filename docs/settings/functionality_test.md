@@ -5,13 +5,13 @@ title: "Configurações de Testes de Funcionalidade"
 
 # Configurações Testes de Funcionalidade
 
-Para realizar os **[testes de funcionalidade](docs\functionality_test\test.md)** é necessário que os **campos e os destinos dos testes estejam cadastros corretamente**. Além disso, é necessário **definir as regras** que definirão como os cadastrados deverão ser realizados.
+Para realizar os **[testes de funcionalidade](docs\functionality_test\test.md)**, é necessário que os **campos e os destinos dos testes estejam cadastros corretamente**. Além disso, é necessário **definir as regras** que definirão como os cadastros deverão ser realizados.
 
 Veja abaixo como funciona cada passo.
 
 ## Campos de Teste
 
-Para acessar a página de campos de teste siga os passos a seguir:
+Para acessar a página de campos de teste, siga os passos a seguir:
 
 - Clique na guia **`Configurações`**
 - Clique em **`Campos de Teste`**
@@ -22,9 +22,9 @@ Para acessar a página de campos de teste siga os passos a seguir:
 
 ### Pré-requisitos
 
-- Ter acesso a página de cadastro de campos de teste.
+- Ter acesso à página de cadastro de campos de teste.
 - Ter acesso de escrita.
-- Ter Tipos de Hardware Cadastrados
+- Ter Tipos de Hardware Cadastrados.
 
 :::
 
@@ -44,7 +44,7 @@ Para cadastrar campos de teste, clique no botão **`Cadastrar Novo Campo`** loca
 10. Clique em **`Salvar`**
 
 :::warning[Importante!]
-As descrições do campo devem ser claras, curtas e objetivas!
+A descrição do campo deve ser clara, curta e objetiva!
 :::
 
 Veja um exemplo de como ficaria o cadastro:

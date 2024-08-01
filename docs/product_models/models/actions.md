@@ -24,10 +24,10 @@ Siga os passos abaixo para arquivar modelos:
 ## Editar
 
 :::info
-Para editar modelos é necessário ter permissão de atualização
+Para editar modelos, é necessário ter permissão de atualização
 :::
 
-Para editar o modelo siga os passos abaixo:
+Para editar o modelo, siga os passos abaixo:
 
 - Clique em **`Editar`**
 - Faça as alterações necessárias
@@ -38,7 +38,7 @@ Para editar o modelo siga os passos abaixo:
 ## Preencher Especificações
 
 :::info
-Para preencher especificações é necessário ter opções de campos cadastradas!
+Para preencher especificações, é necessário ter opções de campos cadastradas!
 :::
 
 ### Passo a Passo

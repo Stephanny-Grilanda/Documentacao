@@ -5,10 +5,10 @@ title: "Introdução aos Pedidos"
 
 # Introdução aos Pedidos :desktop_computer:
 
-A página de pedidos permite que o usuário visualize todos os pedidos comerciais cadastrados no sistema.
+A página de pedidos permite ao usuário visualizar todos os pedidos comerciais cadastrados no sistema.
 
-Através desta página o usuário pode **[incluir produtos](./create_products.md)** aos pedidos e **[editar ou excluir](./actions.md)** os produtos cadastrados.
+Nesta página, o usuário pode **[incluir produtos](./create_products.md)** nos pedidos e **[editar ou excluir](./actions.md)** os produtos já cadastrados.
 
-Para realizar o cadastro de produtos, é necessário que o sistema possua algum pedido comercial cadastrado.
+Para cadastrar produtos, é necessário que o sistema já tenha pelo menos um pedido comercial cadastrado.
 
-Veja nas próximas páginas o passo a passo para cadastrar, editar e excluir produtos.
+Confira nas próximas páginas o passo a passo para cadastrar, editar e excluir produtos.

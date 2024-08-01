@@ -5,7 +5,7 @@ title: "Introdução aos Tipos de Hardware"
 
 # Introdução aos tipos de hardware :desktop_computer:
 
-Os tipos de hardware se referem aos tipos de produtos que são gerenciados pela empresa, podendo ser classificados como produtos, dispositivos de armazenamento e items. Veja abaixo uma descrição dos mesmos:
+Os tipos de hardware referem-se às categorias de produtos gerenciados pela empresa, que incluem produtos, dispositivos de armazenamento e itens. Abaixo, você encontrará uma descrição de cada categoria:
 
 **Produto:** Refere-se a qualquer item que seja controlado individualmente, excluindo dispositivos de armazenamento.
 

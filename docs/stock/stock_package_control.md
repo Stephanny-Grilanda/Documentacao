@@ -5,7 +5,7 @@ title: "Controle de Pacotes"
 
 # Controle de Pacotes
 
-Os pacotes são conjuntos de produtos selecionados que serão vendidos como um produto.
+Os pacotes são conjuntos de produtos selecionados que serão vendidos como um único produto.
 
 :::warning[Aviso!]
 **Os pacotes substituem os antigos kits.**
@@ -40,14 +40,14 @@ Para cadastrar um pacote, siga os passos abaixo:
 ![Tela cadastrar pacote](/img/images/cadastrar_pacote.png)
 
 :::warning[Aviso!]
-O título dos pacotes que são gerados automaticamente à partir das regras de criação de pacotes é gerado pelo próprio sistema, seguindo o seguinte padrão:
+O título dos pacotes gerados automaticamente conforme as regras de criação é definido pelo sistema, seguindo o padrão abaixo:
 
 1. Título do produto (SKU)
 2. Quantidade de memória ram
 3. Quantidade de armazenamento
 4. Estado da bateria externa
 
-Prioritariamente o sistema segue esta sequência, com exceção dos produtos que não possuem algum destes itens em sua regra de criação de pacotes
+Prioritariamente, o sistema segue esta sequência, exceto para os produtos que não incluem algum desses itens em suas regras de criação de pacotes.
 :::
 
 :::danger[ATENÇÃO!]
@@ -79,12 +79,12 @@ Após adicionar os produtos é necessário registrar o pacote na Tiny para gerar
 
 ### Precificar Pacote
 
-Para precificar um pacote clique em **`$ Precificar`**, defina o preço e clique em **`Salvar`**
+Para precificar um pacote, clique em **`$ Precificar`**, defina o preço e clique em **`Salvar`**
 
 ![Tela precificação](/img/images/preco_pct_manual.png)
 
 :::info
-Após a finalização do cadastro, o preço do pacote e seu ID na Tiny serão incluídos
+Após a finalização, o preço do pacote e seu ID na Tiny serão incluídos no cadastro do pacote.
 :::
 
 ![Tela precificação](/img/images/lista_preco_manual.png)
@@ -99,7 +99,7 @@ No cadastro automático, os produtos são agrupados por compatibilidade, complem
 
 ### Passo a Passo
 
-1. Na parte superior da tela de controle de pacotes clique em **`QTD SKUS SEM PACOTES`**
+1. Na parte superior da tela de controle de pacotes, clique em **`QTD SKUS SEM PACOTES`**
 
 ![Dashboard pacotes](/img/images/dash_pacotes.png)
 
@@ -131,12 +131,12 @@ No cadastro automático, os produtos são agrupados por compatibilidade, complem
 
 - Produtos podem ser adicionados ou removidos do pacote, para isto basta clicar em **`Gerenciar Pacote`** e seguir os passos:
 
-  - Para adicionar: selecione o item ou SKU, a quantidade desejada e depois clique em **`Adicionar`**
-  - Para remover: selecione o produto e clique em **`Arquivar`**
+  - **Para adicionar:** selecione o item ou SKU, a quantidade desejada e depois clique em **`Adicionar`**
+  - **Para remover:** selecione o produto e clique em **`Arquivar`**
   - Feche a página de gerenciamento e clique em **`Atualizar`**
 
 - Sempre que adicionar ou remover produtos de um pacote, você deverá clicar em **`Atualizar Tiny`**
 
 :::
 
-Veja nas próximas páginas como os processos de vendas são realizadas!
+Veja nas próximas páginas como os processos de vendas são realizados!

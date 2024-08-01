@@ -13,7 +13,7 @@ O sistema disponibiliza algumas ações para os tipos de hardware cadastrados. V
 
 Arquiva os tipos de hardware que não serão utilizados no momento.
 
-Os **cadastrados arquivados** ficarão com o **status inativo**, mas poderão ser visualizados através do uso de filtros, como será visto posteriormente.
+Os **tipos de hardware arquivados** ficarão com o **status inativo**, mas poderão ser visualizados através do uso de filtros, como será visto posteriormente.
 
 Ao clicar em **`Arquivar`** o sistema gerará a mensagem "Deseja continuar?", clique em **`Arquivar`** para confirmar a ação.
 
@@ -30,7 +30,7 @@ Pré requisitos para adicionar um fabricante:
 - Ter um hardware cadastrado
   :::
 
-O sistema permite que o usuário adicione fabricantes para cada tipo de hardware cadastrado. Para isso clique em **adicionar fabricante**, digite o nome do mesmo e clique em **`Salvar`**
+O sistema permite que o usuário adicione fabricantes para cada tipo de hardware cadastrado. Para isso clique em **adicionar fabricante**, digite o nome do mesmo e clique em **`Salvar`**.
 
 ![Tela de cadastro de fabricantes](/img/images/fabricante.png)
 

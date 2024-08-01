@@ -75,7 +75,7 @@ Após salvar a ação, a seguinte mensagem irá aparecer na tela:
 ![Aba Confirmar Transferência](/img/images/confirmar_transferência.png)
 
 :::warning
-Caso a transferência seja reprovada, o produto continuará no setor origem até que uma nova transferência seja cadastrada e autorizada pelo responsável!
+Caso a transferência seja reprovada, o produto continuará no setor de origem até que uma nova transferência seja cadastrada e autorizada pelo responsável!
 :::
 
 Veja nas próximas páginas como é feito o gerenciamento dos estoques!
