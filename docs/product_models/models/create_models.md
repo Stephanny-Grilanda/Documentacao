@@ -7,9 +7,8 @@ title: "Cadastrar Modelos"
 
 Para cadastrar os modelos de hardware, é necessário seguir o caminho abaixo:
 
-- Guia produtos
-- Cadastro
-- Modelos
+- Clique na aba **Produtos**
+- Clique em **Modelos**
 
 ![Caminho para acessar os modelos](/img/images/modelos.png)
 
@@ -35,7 +34,7 @@ A seguir confira os pré-requisitos para cadastrar os modelos:
 
 ### Passo a Passo para Cadastro
 
-- Clique no botão cadastrar novo, localizado no canto superior direito da tela
+- Clique no botão **`cadastrar novo`**, localizado no canto superior direito da tela
 - Digite o tipo de Hardware. Ex: celular, teclado, roteador etc.
 - Selecione o fornecedor
 - Digite o nome do modelo de hardware. Ex: Iphone, Vostro etc.

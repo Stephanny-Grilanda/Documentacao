@@ -28,19 +28,19 @@ Veja abaixo como é feito o cadastro de um campo de especificação.
 
 ## Passo a Passo
 
-- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela
-- Selecione o tipo de hardware
-- Selecione a categoria do campo
-- Digite o nome do campo
-- Escolha o tipo de campo
-- Escolha o atributo que será utilizado no campo
-- Clique em **`Salvar`**
+- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela.
+- Selecione o tipo de hardware.
+- Selecione a categoria do campo.
+- Digite o nome do campo.
+- Escolha o tipo de campo.
+- Escolha o atributo que será utilizado no campo.
+- Clique em **`Salvar`**.
 
 ### Exemplo
 
 Para este exemplo, utilizaremos como tipo de hardware uma capa para tablet. Veja abaixo como um campo de especificação é cadastrado e como ele é utilizado para definir as especificações de um modelo.
 
-1° É feito o cadastro do campo de especificação
+1° É feito o cadastro do campo de especificação.
 
 ![Cadastro Campos de Especificações](/img/images/cadastro_campos_especificacoes.png)
 
@@ -48,7 +48,7 @@ Para este exemplo, utilizaremos como tipo de hardware uma capa para tablet. Veja
 
 ![Confirmação Cadastro Campos de Especificações](/img/images/confirmacao_cadastro_campo.png)
 
-3° O campo cadastrado será incluído em uma lista que contém todos os campos de especificações cadastrados
+3° O campo cadastrado será incluído em uma lista que contém todos os campos de especificações cadastrados.
 
 ![Confirmação Cadastro Campos de Especificações](/img/images/lista_campos.png)
 

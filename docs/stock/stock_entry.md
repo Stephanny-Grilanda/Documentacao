@@ -5,7 +5,7 @@ title: "Entrada no Estoque"
 
 # Entrada no Estoque
 
-Nesta página encontram-se os produtos cadastrados nos pedidos que estão aguardando entrada nos estoques.
+Nesta página, estão listados os produtos cadastrados nos pedidos que aguardam entrada no estoque.
 
 ## Acessar aba entrada no estoque
 

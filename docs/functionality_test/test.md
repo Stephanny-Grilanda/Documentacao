@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Testar Produtos
 ---
 
 # Testar Produtos :computer:
@@ -22,13 +23,13 @@ Após acessar a página, será possível visualizar todos os produtos que estão
 ## Pré-requisitos
 
 - Ter produtos cadastrados
-- Ter especificações dos produto cadastradas
+- Ter especificações dos produtos cadastradas
 - Ter os campos do teste de funcionalide cadastrados
   :::
 
 ## Passo a Passo
 
-Para realizar o teste de funcionalidade de terminado produto siga os passos abaixo:
+Para realizar o teste de funcionalidade de determinado produto siga os passos abaixo:
 
 - Escolha o produto que deseja realizar o teste
 - Clique no botão **`Testar`**

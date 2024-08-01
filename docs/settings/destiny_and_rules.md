@@ -9,6 +9,9 @@ O sistema permite ao usuário definir os destinos dos produtos que serão testad
 
 ### Acessar a página de destino de testes
 
+- Clique na aba **Config.**
+- Clique em **Destinos Teste de Funcionalidade**
+
 ![Caminho destino teste de funcionalidade](/img/images/destino_teste.png)
 
 :::info
@@ -24,7 +27,7 @@ O sistema permite ao usuário definir os destinos dos produtos que serão testad
 - Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela.
 - Digite o nome do destino, o mesmo será apresentado nos relatórios.
 - Digite a descrição referente ao destino do teste.
-- Clique em **`Salvar`**
+- Clique em **`Salvar`**.
 
 ![Tela cadastro de destino](/img/images/cadastrar_destino.png)
 
@@ -34,7 +37,8 @@ As regras de SKU têm por objetivo definir a forma como as infomações de SKU i
 
 ### Acessar a página de Regras de SKU
 
-- Acesse a página de Regras de SKU através da guia configurações
+- Clique na aba **Config.**
+- Clique em **Regras de Sku**
 
 ![Caminho regras de SKU](/img/images/aba_regras_sku.png)
 
@@ -48,12 +52,12 @@ As regras de SKU têm por objetivo definir a forma como as infomações de SKU i
 
 ### Passo a Passo
 
-- Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela
-- Escolha a **área do SKU** na qual a regra deverá ser aplicada
+- Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela.
+- Escolha a **área do SKU** na qual a regra deverá ser aplicada.
 - Digite a informação de **entrada** a ser tratada.
 - Escolha a **condicional**, ou seja, defina se a informação deverá ser maior, menor ou igual à quantidade.
-- Escolha a **quantidade** de vezes que a informação aparecerá no SKU
-- Digite a **saída**, ou seja, como a informação ficará depois de tratada
+- Escolha a **quantidade** de vezes que a informação aparecerá no SKU.
+- Digite a **saída**, ou seja, como a informação ficará depois de tratada.
 - Selecione o **peso** que esta regra terá, levando em consideração que o sistema sempre utilizará a informação que possui o maior peso.
 
 Veja um exemplo de cadastro:
@@ -74,11 +78,12 @@ Após o cadastro, a regra será incluída em uma lista que contém todas as regr
 
 ## Regras de SKU Dispositivos de Armazenamento
 
-As regras de SKU tem como objetivo definir como os dispositivos de armazenamento aparecerá nos relatórios de SKU.
+As regras de SKU tem como objetivo definir como os dispositivos de armazenamento aparecerão nos relatórios de SKU.
 
 ### Acessar página de regras de SKU Disp. Armazenamento
 
-- Acesse a página de Regras de SKU de Dispositivos de Armazenamos através da guia de configurações
+- Clique na aba **Config.**
+- Clique em **Regras de SKU Disp. Armazenamento**
 
 ![Caminho regras de SKU de Dispositivos de Armazenamento](/img/images/aba_regras_dispositivo.png)
 
@@ -86,15 +91,15 @@ As regras de SKU tem como objetivo definir como os dispositivos de armazenamento
 
 ### Pré-requisitos
 
-- Ter acesso à página de regras de SKU de dispositivos de armazenamento
-- Ter permissão de escrita à página de regras de SKU dispositivos de armazenamento
+- Ter acesso à página de regras de SKU de dispositivos de armazenamento.
+- Ter permissão de escrita à página de regras de SKU dispositivos de armazenamento.
   :::
 
 ### Passo a Passo
 
 - Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela
 - Escolha o **Tipo de Hardware** para o qual deseja cadastrar uma regra.
-- Selecione o **Campo de Especificação**
+- Selecione o **Campo de Especificação**.
 - Selecione a **ordem** em que tipo de hardware aparecerá no SKU.
 
 Veja abaixo um exemplo de como a regra é cadastrada.

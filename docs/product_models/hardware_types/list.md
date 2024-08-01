@@ -11,9 +11,9 @@ Para consultar os tipos de hardware, o usuário pode pesquisar pelo nome, utiliz
 
 Para pesquisar um tipo de hardware pelo nome siga os seguintes passos:
 
-- Guia Produtos
-- Clique em Tipo de Hardware
-- Digite o nome do tipo de hardware no campo `PESQUISAR`
+- Guia **Produtos**
+- Clique em **Tipo de Hardware**
+- Digite o nome do tipo de hardware no campo **`PESQUISAR`**
 
 ## Filtrar tipos de Hardware
 
@@ -54,7 +54,7 @@ Para definir a quantidade de itens que deseja exibir na página, clique na caixa
 O sistema disponibiliza dois tipos de exportações de arquivos, sendo estas em arquivos Excel e CSV.
 
 :::info
-Para realizar as exportações clique no ícone de **download** localizado ao lado do ícone de **filtro.**
+Para realizar as exportações, clique no ícone de **download** localizado ao lado do ícone de **filtro.**
 :::
 
 ### Exportação em Excel
@@ -71,4 +71,4 @@ Para realizar as exportações clique no ícone de **download** localizado ao la
 - Nomeie o arquivo
 - Clique em **`Salvar`**
 
-No tópico a seguir veremos quais ações podem ser realizadas para cada tipo de hardware!
+Na próxima página veja como editar tipos de hardware e adicionar fabricantes à cada um.

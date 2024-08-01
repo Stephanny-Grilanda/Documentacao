@@ -11,8 +11,8 @@ Para consultar os modelos você pode pesquisar pelo nome, utilizar filtros, defi
 
 Para pesquisar um modelo siga os seguintes passos:
 
-- Guia Produtos
-- Clique em Modelos
+- Clique na aba **Produtos**
+- Clique em **Modelos**
 - Digite no campo `PESQUISAR` o nome do tipo de hardware, modelo ou fabricante que deseja visualizar
 
 ## Filtrar Modelos

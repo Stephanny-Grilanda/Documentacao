@@ -13,7 +13,7 @@ O sistema permite que o usuário edite e arquive itens. Veja abaixo como realiza
 
 ### Pré-requisitos
 
-- Ter permissão de atualização à oágina de itens
+- Ter permissão de atualização à página de itens
   :::
 
 ## Editar item

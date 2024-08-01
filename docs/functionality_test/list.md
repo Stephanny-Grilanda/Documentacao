@@ -13,9 +13,9 @@ Para consultar os produtos, você pode pesquisar pelo código de barras, tipo de
 
 Para pesquisar um produto siga os seguintes passos:
 
-- Guia Produtos
-- Teste de Funcionalidade
-- Digite no campo `PESQUISAR` a informação referente ao produto que deseja pesquisar
+- Clique na aba **Produtos**
+- Clique em **Teste de Funcionalidade**
+- Digite no campo **`PESQUISAR`** a informação referente ao produto que deseja pesquisar
 
 ![Campo de pesquisa](/img/images/pesquisar.png)
 

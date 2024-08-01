@@ -12,7 +12,7 @@ Veja abaixo como o processo de cadastro de estoque é realizado.
 ## Acessar a Aba de Cadastro
 
 - Clique na guia **`Estoques`**
-- Na parte **CADASTRO** clique em **Estoques**
+- Clique em **+ Estoques**
 
 ![aba estoques](/img/images/aba_estoques.png)
 
@@ -41,7 +41,7 @@ Após o cadastro, o estoque será incluído numa lista onde constará seu nome, 
 ![Tela Cadastrar Estoques](/img/images/lista_estoque.png)
 
 :::info
-Para pesquisar um estoque basta digitar o nome do mesmo no campo **`PESQUISAR`**
+Para pesquisar um estoque, basta digitar o nome do mesmo no campo **`PESQUISAR`**
 :::
 
-Nas próxima página veja como são realizadas as entradas no estoque!
+Na próxima página veja como são realizadas as entradas no estoque!
