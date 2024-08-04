@@ -5,7 +5,7 @@ title: "Configurações de Testes de Funcionalidade"
 
 # Configurações Testes de Funcionalidade
 
-Para realizar os **[testes de funcionalidade](docs\functionality_test\test.md)**, é necessário que os **campos e os destinos dos testes estejam cadastros corretamente**. Além disso, é necessário **definir as regras** que definirão como os cadastros deverão ser realizados.
+Para realizar os **[testes de funcionalidade](docs\functionality_test\test.md)**, é necessário que os **campos e os destinos dos testes estejam cadastrados corretamente**. Além disso, é necessário **definir as regras** que definirão como os cadastros deverão ser realizados.
 
 Veja abaixo como funciona cada passo.
 
