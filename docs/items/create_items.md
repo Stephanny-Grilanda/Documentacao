@@ -27,12 +27,12 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 
 ## Regras de Preenchimento
 
-| Campo     | Tipo de dado     | Obrigatório | Descrição                     |
-| --------- | ---------------- | ----------- | ----------------------------- |
-| Modelos   | Entrada de texto | **Sim**     | Modelo do Equipamento         |
-| Nome      | Entrada de texto | **Sim**     | Nome do Modelo do Equipamento |
-| Código    | Entrada de texto | **Sim**     | Código do Equipamento         |
-| Descrição | Entrada de texto | **Sim**     | Descrição do Equipamento      |
+| Campo     | Tipo de dado     | Obrigatório | Descrição                |
+| --------- | ---------------- | ----------- | ------------------------ |
+| Modelos   | Entrada de texto | **Sim**     | Modelo do Equipamento    |
+| Nome      | Entrada de texto | **Sim**     | Nome do Modelo do Item   |
+| Código    | Entrada de texto | **Sim**     | Código do Equipamento    |
+| Descrição | Entrada de texto | **Sim**     | Descrição do Equipamento |
 
 ## Passo a Passo para Cadastro
 

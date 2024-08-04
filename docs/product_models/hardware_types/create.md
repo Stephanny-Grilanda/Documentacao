@@ -16,7 +16,7 @@ Para acessar a aba de cadastro de tipos de hardware, é necessário seguir o cam
 
 ### Pré-requisitos
 
-Para criar um tipo de hardware é necessário preencher todos os resquisitos a seguir:
+Para criar um tipo de hardware é necessário preencher todos os requisitos a seguir:
 
 - Ter um perfil de acesso ao sistema
 - Ter acesso à página de tipos de hardware

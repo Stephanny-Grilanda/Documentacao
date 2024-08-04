@@ -26,17 +26,16 @@ A seguir confira os pré-requisitos para cadastrar os modelos:
 
 ### Regras de Preenchimento
 
-| Campo      | Tipo de dado     | Obrigatório | Descrição             |
-| ---------- | ---------------- | ----------- | --------------------- |
-| Nome       | Entrada de texto | **Sim**     | Nome do Modelo        |
-| Tipo       | Entrada de texto | **Sim**     | Categoria do Hardware |
-| Fabricante | Entrada de texto | **Sim**     | Nome do Fabricante    |
+| Campo      | Tipo de dado     | Obrigatório | Descrição          |
+| ---------- | ---------------- | ----------- | ------------------ |
+| Nome       | Entrada de texto | **Sim**     | Nome do Modelo     |
+| Fabricante | Entrada de texto | **Sim**     | Nome do Fabricante |
 
 ### Passo a Passo para Cadastro
 
 - Clique no botão **`cadastrar novo`**, localizado no canto superior direito da tela
 - Digite o tipo de Hardware. Ex: celular, teclado, roteador etc.
-- Selecione o fornecedor
+- Selecione o fabricante
 - Digite o nome do modelo de hardware. Ex: Iphone, Vostro etc.
 - Clique em **`salvar`**
 

@@ -12,7 +12,7 @@ Para cadastrar os produtos, é necessário seguir o caminho abaixo:
 
 ![Caminho para acessar os pedidos](/img/images/aba_pedidos.png)
 
-A seguir confira os pré-requisitos para cadastrar os modelos:
+A seguir confira os pré-requisitos para cadastrar os produtos:
 
 :::info
 
