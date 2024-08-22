@@ -35,19 +35,42 @@ Para realizar o teste de funcionalidade de determinado produto siga os passos ab
 - Clique no botão **`Testar`**
 - A seguinte tela irá aparecer:
 
-![Tela de Testes](/img/images/tela_teste.png)
+![Tela de teste de funcionalidade](/img/images/teste_funcionalidade.png)
 
-- Preencha os campos de cada categoria levando em consideração os aspectos do produto escolhido
-- Ao final, escolha o destino: controle de estoque, reciclagem, estoque ou manutenção
-- Clique em **`Validar`**
-- Irá aparecer uma tela para validar a funcionalidade
-- Confirme se está tudo correto
-- Clique em **`Salvar`**
+:::info
+A partir desta tela, você deverá preencher os campos de acordo com as características do produto que está sendo testado.
+:::
 
-![Tela Funcionalidade](/img/images/tela_funcionalidade.png)
+Selecione se o produto liga ou não e clique em **`Outros`** para ir para a próxima tela.
 
-- Quando a etapa for concluída, o sistema irá exibir uma mensagem de confirmação.
+![Tela de teste de funcionalidade](/img/images/outros_teste.png)
 
-![Confirmação de registro de teste de funcionalidade](/img/images/confirmacao_teste.png)
+Preencha os campos necessários e clique em **`Alimentação`** para ir para a próxima tela.
 
-Veja na próxima página como consultar os produtos para teste
+![Tela de teste de funcionalidade](/img/images/alimentacao_teste.png)
+
+Preencha os campos necessários e clique em **`Rede`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/rede_teste.png)
+
+Preencha os campos necessários e clique em **`Armazenamento`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/armazenamento_teste.png)
+
+Preencha os campos necessários e clique em **`Alimentação`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/alimentacao2_teste.png)
+
+Preencha os campos necessários e clique em **`Conexão`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/conexao_teste.png)
+
+Preencha os campos necessários e clique em **`Redes`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/redes_teste.png)
+
+Preencha os campos necessários e clique em **`Concluir`** para ir para a próxima tela.
+
+![Tela de teste de funcionalidade](/img/images/concluir_testes.png)
+
+Clique em **`Validar`** para terminar o teste de funcionalidade do produto.
