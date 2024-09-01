@@ -3,4 +3,50 @@ sidebar_position: 3
 title: "Pedidos"
 ---
 
-# Adicionar Pedidos
+# Pedidos :clipboard:
+
+A página de pedidos permite ao usuário cadastrar clientes, pedidos de venda, adicionar produtos e visualizar os status dos pedidos.
+
+Para acessar a página de pedidos, siga os passos abaixo:
+
+- Clique na guia **Vendas**
+- Clique em **Pedidos**
+
+![caminho pedidos](/img/images/caminho_pedidos.png)
+
+Ao acessar a página de pedidos a seguinte tela será apresentada:
+
+![Tela pedidos](/img/images/tela_pedido_venda.png)
+
+:::info
+
+## Pré-requisitos
+
+- Ter um perfil de acesso ao sistema
+- Ter acesso à página de pedidos
+- Ter permissão de escrita à página de pedidos
+  :::
+
+## Cadastrar Cliente
+
+Para cadastrar um cliente, siga os passos abaixo:
+
+- Clique em **`Adicionar Pedido`**
+- Clique em **Adicionar novo cliente**
+- Preencha todos os campos com os dados pessoais do cliente
+- Clique em **`Salvar`**
+
+![Cadastrar Cliente](/img/images/cadastro_cliente.png)
+
+## Adicionar Pedido
+
+Para adicionar um pedido, siga os passos abaixo:
+
+- Clique em **`Adicionar Pedido`**
+- Selecione o cliente
+- Informe os dados do pedido
+- Informe os dados da entrega
+- Informe os dados de pagamento
+- Clique em **`Salvar`**
+
+![Cadastro Pedido](/img/images/pedido_cliente.png)
