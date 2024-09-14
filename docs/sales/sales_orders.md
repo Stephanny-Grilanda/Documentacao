@@ -50,3 +50,56 @@ Para adicionar um pedido, siga os passos abaixo:
 - Clique em **`Salvar`**
 
 ![Cadastro Pedido](/img/images/pedido_cliente.png)
+
+## Adicionar Produtos ao Pedido
+
+Para adicionar produtos ao pedido, siga os passos abaixo:
+
+- No campo **Ações** do pedido desejado, clique em **`Visualizar`**
+
+![Visualizar Pedido](/img/images/visualizar_pedido.png)
+
+- O sistema irá exibir uma tela com as informações do pedido
+- Clique em **`Mais Produtos`**
+
+![Adicionando Produtos ao Pedido](/img/images/visualizacao_pedido.png)
+
+- Selecione o produto, item ou pacote que deseja adicionar ao pedido
+- Digite o preço de venda
+- Digite a quantidade
+- Clique em **`Salvar`**
+
+![Adicionando Produtos ao Pedido](/img/images/adicionar_produtos.png)
+
+- Após a inclusão dos produtos, atualize a página para visualizar todas as informações do pedido
+
+![Produtos incluídos no Pedido](/img/images/produtos_incluidos.png)
+
+## Atualizar informações de pagamento e envio
+
+Para incluir os dados de pagamento do pedido, siga os passos abaixo:
+
+- No campo **Ações** do pedido desejado, clique em **`Visualizar`**
+- Desça a página até encontrar as informações de pagamento
+- Altere a forma de envio
+- Clique em **`Marcar como pago`** para finalizar o pagamento
+
+![Detalhes do Pedido](/img/images/detalhes_pedidos.png)
+
+- Digite os detalhes do pagamento
+- Clique em **`Salvar`**
+
+![Confirmação de Pagamento](/img/images/confirmacao_pagamento.png)
+
+## Aprovar Pedido
+
+Após todas etapas anteriores, é necessário aprovar o pedido para que ele siga para a separação.
+
+- Acesse a página do pedido
+- Clique em **`Aprovar`**
+
+![Aprovar Pedido](/img/images/aprovar_pedidos.png)
+
+:::info
+Após a aprovação, o pedido seguirá para área de separação, veja na próxima página como o processo é realizado.
+:::
