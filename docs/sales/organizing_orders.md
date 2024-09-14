@@ -32,6 +32,8 @@ Para acessar a página de separação siga os passos a seguir:
 
 ![Tela Separar Pedidos](/img/images/separar_pedidos.png)
 
+### Escolhendo pedidos para separar
+
 - Clique em **`Aguardando`** para listar os pedidos prontos para serem separados
 
 ![Pedidos Aguardando Separação](/img/images/aguardando_separacao.png)
@@ -81,6 +83,9 @@ Para acessar a página de separação siga os passos a seguir:
 - Selecione os pedidos que deseja preparar
 - Clique em **`Iniciar Preparação`**
 - Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de preparação
+
+### Preparando itens do pedido
+
 - Defina o pedido que deseja preparar
 - Clique em **`Preparar`**
 
@@ -91,6 +96,8 @@ Para acessar a página de separação siga os passos a seguir:
 - Clique em **`Salvar`**
 
 ![Certificar Preparação](/img/images/certificar_preparacao.png)
+
+### Finalizando a preparação dos pedidos
 
 - Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e preparei o pedido corretamente"
 - Clique em **`Confirmar e fechar preparação`**
@@ -118,6 +125,9 @@ Para acessar a página de formatação siga os passos a seguir:
 - Selecione os pedidos que deseja formatar
 - Clique em **`Iniciar Formatação`**
 - Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de formatação
+
+### Formatando itens de um pedido
+
 - Defina o pedido que deseja formatar
 - Clique em **`Formatar`**
 
@@ -128,6 +138,8 @@ Para acessar a página de formatação siga os passos a seguir:
 - Quando finalizar o processo, clique em **`Concluir Formatação`**
 
 ![Tela Formatação](/img/images/iniciar_formatacao.png)
+
+### Finalizando a formatação de um pedido
 
 - Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e formatei o pedido corretamente"
 - Clique em **`Confirmar e fechar formatação`**

@@ -31,6 +31,8 @@ Para acessar a página de embalagem, siga os passos abaixo.
 
 ![Tela Embalagem](/img/images/tela_embalar.png)
 
+### Separando pedidos para embalar
+
 - Clique em **`Aguardando`** para listar os pedidos prontos para serem embalados
 - Selecione os pedidos que deseja preparar
 - Clique em **`Iniciar Embalagem`**
@@ -43,6 +45,8 @@ Para acessar a página de embalagem, siga os passos abaixo.
 - Após esses passos, o sistema irá apresentar a tela para realizar a embalagem do pedido em questão.
 
 ![Tela Embalagem](/img/images/tela_embalagem.png)
+
+### Adicionando produtos às caixas
 
 - Para embalar o produto, clique em **`Adicionar Caixa`**
 
@@ -67,6 +71,8 @@ Para acessar a página de embalagem, siga os passos abaixo.
 
 ![Adicionar peso  à caixa](/img/images/adicionar_peso.png)
 
+### Adicionando características à caixa
+
 - Clique em **`Adicionar Peso e Foto`**
 - Insira o peso e a foto da caixa
 
@@ -77,6 +83,8 @@ Para acessar a página de embalagem, siga os passos abaixo.
 - Imprima a etiqueta e cole na caixa
 
 ![Imprimir Etiqueta](/img/images/imprimir_etiqueta.png)
+
+### Finalizando a embalagem do pedido
 
 - Selecione o checkbox **Certifico que verifiquei e embalei o pedido corretamente!**
 - Clique em **`Confirmar e fechar embalagem`**
@@ -100,12 +108,16 @@ Para acessar a página de expedição, siga os passos abaixo.
 
 ![Tela Expedição](/img/images/tela_expedicao.png)
 
+### Separando pedidos para expedição
+
 - Clique em **`Aguardando`** para listar os pedidos prontos para serem expedidos
 - Selecione os pedidos que deseja expedir
 - Clique em **`Iniciar Expedição`**
 - Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de expedição
 
 ![Tela Expedição](/img/images/tela_expedicao_2.png)
+
+### Expedindo pedidos
 
 - Escolha o pedido que deseja e clique em **`Expedir`**
 - O sistema irá exibir a tela abaixo:
@@ -126,6 +138,8 @@ Para acessar a página de expedição, siga os passos abaixo.
 Após a conclusão dessas etapas, é necessário adicionar a nota fiscal ao pedido, assim como a PLP (pré-lista de postagem), um documento que indica que a mercadoria foi postada e recebida pela agência dos Correios.
 :::
 
+### Adicionando Nota Fiscal e PLP
+
 Ainda na página de expedição, adicione a NF e a PLP clicando em **`Adicionar nota fiscal assinada`** e então em **`Adicionar PLP`**
 
 ![Tela Adicionar NF e PLP](/img/images/adicionar_notas.png)
@@ -138,6 +152,19 @@ Ainda na página de expedição, adicione a NF e a PLP clicando em **`Adicionar 
 
 ![Tela Adicionar PLP](/img/images/adicionar_plp.png)
 
+### Concluindo o pedido
+
 - Após cumprir todas as etapas, clique em **`Concluir`** para concluir o pedido de venda.
 
 ![Concluir Pedido](/img/images/concluir_pedido.png)
+
+:::info
+
+### Visualizando um pedido concluído
+
+Após a conclusão do pedido, o mesmo aparecerá como concluído na página de pedidos.
+:::
+
+![Pedido concluído](/img/images/pedido_concluido.png)
+
+Na próxima página veja como são feitas as configurações do sistema.
