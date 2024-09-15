@@ -49,16 +49,19 @@ Para exibir informações do pedido e imprimir a ficha da separação, clique em
 
 ![Separação do pedido](/img/images/separacao_teste.png)
 
-- Confira se os itens do pedido estão corretos
-- Selecione o checkbox "Certifico que verifiquei e separei os itens corretamente"
-- Clique em **`Fechar Separação`**
+- Clique em **`Separar`** para iniciar a separação do produto
+- O sistema irá apresentar a tela abaixo:
 
-![Verificação dos itens do pedido](/img/images/verificar_separacao.png)
+![Separação do pedido](/img/images/separando_pedido.png)
 
-- Após separar todos os itens, selecione o checkbox "certifico que verifiquei e separei o pedido corretamente"
-- Clique em **`Confirmar`**
+- Clique no ícone de mão para separar os itens do pedido
 
-![confirmar separação](/img/images/confirmar_separacao.png)
+![Separação do pedido](/img/images/certificar_separacao.png)
+
+- Confira se os itens estão corretos
+- Selecione a quantidade para os itens elegíveis
+- Selecione o checkbox **Certifico que verifiquei e separei os itens corretamente!**
+- Clique em **`Salvar`**
 
 :::info
 Após a separação, o pedido irá para a área de preparação.

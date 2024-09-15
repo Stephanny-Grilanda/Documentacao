@@ -44,6 +44,7 @@ Para adicionar um pedido, siga os passos abaixo:
 
 - Clique em **`Adicionar Pedido`**
 - Selecione o cliente
+- Informe o código do pedido
 - Informe os dados do pedido
 - Informe os dados da entrega
 - Informe os dados de pagamento
