@@ -162,7 +162,7 @@ Ainda na página de expedição, adicione a NF e a PLP clicando em **`Adicionar 
 
 ### Visualizando um pedido concluído
 
-Após a conclusão do pedido, o mesmo aparecerá como concluído na página de pedidos.
+Após a conclusão do pedido, o mesmo aparecerá como vendido na página de pedidos.
 :::
 
 ![Pedido concluído](/img/images/pedido_concluido.png)
