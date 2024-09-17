@@ -84,9 +84,6 @@ Para incluir os dados de pagamento do pedido, siga os passos abaixo:
 - Desça a página até encontrar as informações de pagamento
 - Altere a forma de envio
 - Clique em **`Marcar como pago`** para finalizar o pagamento
-
-![Detalhes do Pedido](/img/images/detalhes_pedidos.png)
-
 - Digite os detalhes do pagamento
 - Clique em **`Salvar`**
 
