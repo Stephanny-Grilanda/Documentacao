@@ -18,12 +18,20 @@ Diferentemente da entrada, o controle de estoque de itens é feita de forma manu
 - Selecionar um **motivo** para movimentações de **saída**
   :::
 
+## Acessar Página Controle de Estoque de Itens
+
+- Clique na guia **Estoque**
+- Clique em **Controle de Estoque de Itens**
+
+![Caminho estoque de itens](/img/images/aba_estoque_item.png)
+
+- O sistema irá apresentar a tela abaixo:
+
+![Cadastrar estoque de item](/img/images/cadastrar_estoque_item.png)
+
 ## Entrada de Item no Estoque
 
-Para realizar o controle da forma correta, siga os passos abaixo:
-
-- Acesse a aba de controle de estoque de item
-- Clique no botão **`Cadastrar Novo`**, localizado no canto superior direito da tela
+- Clique no botão **`Cadastrar Novo`**
 - Selecione o item que deseja.
 - Selecione o estoque no qual o item se encontra.
 - Digite a localização do item correspondente à etiqueta da prateleira.
