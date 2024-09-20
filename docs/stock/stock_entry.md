@@ -14,6 +14,10 @@ Nesta página, estão listados os produtos cadastrados nos pedidos que aguardam 
 
 ![Aba Controle de Estoque](/img/images/entrada_estoque.png)
 
+- O sistema irá apresentar uma tela com os produtos que estão aguardando entrada no estoque:
+
+![Tela entrada de estoque](/img/images/produtos_estoque.png)
+
 :::info
 
 ## Pré-requisitos
