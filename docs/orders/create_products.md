@@ -40,10 +40,24 @@ A seguir confira os pré-requisitos para cadastrar os produtos:
 | Código do Vadis  | Entrada de texto | **Sim**     | Código utilizado no sistema Vadis        |
 | Parent Id        | Entrada de texto | **Sim**     | Equipamento proprietário da mídia / item |
 
+## Ações Disponíveis para Pedidos
+
+Para manipulação de pedidos, o sistema disponibiliza as ações abaixo:
+
+- **Abrir** - Abre um pedido novo para adicionar produtos;
+- **Reabrir** - Reabre um pedido que já foi fechado para que possa ter seus produtos alterados;
+- **Fechar** - Fecha um pedido que teve seu processo de cadastro concluído.
+
+![Visualizar pedidos](/img/images/opcoes_pedidos.png)
+
 ## Passo a Passo para Cadastro
 
 - Escolha o pedido em que deseja cadastrar um produto
+- Clique em **`Abrir`**
 - Clique no botão **`Visualizar`**
+
+![Visualizar pedidos](/img/images/visualizar_pedidos.png)
+
 - Preencha todos os campos obrigatórios para o cadastro conforme as regras de preenchimento.
   - **Triagens:** Código gerado pelo setor de recebimento após a triagem dos materiais recebidos.
   - **Modelo:** Modelo do equipamento

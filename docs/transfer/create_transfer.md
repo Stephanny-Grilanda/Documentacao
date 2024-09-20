@@ -27,11 +27,12 @@ Para realizar a transferência de produtos, siga os passos abaixo:
 
 ## Realizar Transferência
 
-- Digite o código de barras do produto
-- Selecione a origem, ou seja, o setor em que o produto se encontra no momento da transferência
-- Selecione o destino para onde o produto será enviado
-- Descreva o motivo pelo qual o produto está sendo transferido
-- Clique em **`Salvar`**
+- Digite o código de barras do produto;
+- Selecione a origem, ou seja, o setor em que o produto se encontra no momento da transferência;
+- Selecione o destino para onde o produto será enviado;
+- Descreva o motivo pelo qual o produto está sendo transferido;
+- Se necessário, adicione uma descrição à transferência;
+- Clique em **`Salvar`**.
 
 ![Tela Tranferência](/img/images/exemplo_transferencia.png)
 
