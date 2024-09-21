@@ -5,13 +5,11 @@ title: "Controle de Pacotes"
 
 # Controle de Pacotes
 
-Os pacotes são conjuntos de produtos selecionados que serão vendidos como um único produto.
+Os pacotes são conjuntos de produtos selecionados que serão vendidos como um único produto. Eles servem para criar, gerenciar e precificar os pacotes de produtos.
 
 :::warning[Aviso!]
 **Os pacotes substituem os antigos kits.**
 :::
-
-O controle de pacotes serve para criar, gerenciar e precificar os pacotes de produtos.
 
 ## Acesar aba de pacotes
 
@@ -19,17 +17,15 @@ Para acessar a aba de controle de pacotes, clique na guia **`Estoque`** e então
 
 ![Aba Controle de Pacotes](/img/images/pacotes.png)
 
-## Cadastro Manual de Pacote
+O sistema irá exibir a tela abaixo:
 
-Para cadastrar um pacote, siga os passos abaixo:
+![Tela Controle de Pacotes](/img/images/tela_controle_pacotes.png)
 
-- clique no botão **`Cadastrar Novo`** localizado no canto direito da tela.
-- Nomeie o pacote
-- Clique em **`Salvar`**
+---
 
 :::info[NOTAS]
 
-### Prefixos
+## Prefixos - Importantes para os cadastros
 
 - A letra P seguida de um número é referente ao prefixo de SKU de produto e o número refere-se ao SKU em si.
 - As letras SD seguidas de um número são referentes ao prefixo de SKU de dispositivos de armazenamento e o número refere-se ao SKU em si.
@@ -37,57 +33,40 @@ Para cadastrar um pacote, siga os passos abaixo:
 - A letra K seguida de um número é referente ao prefixo de um pacote, o número por sua vez refere-se ao código do pacote.
   :::
 
-![Tela cadastrar pacote](/img/images/cadastrar_pacote.png)
+---
 
-:::warning[Aviso!]
-O título dos pacotes gerados automaticamente conforme as regras de criação é definido pelo sistema, seguindo o padrão abaixo:
-
-1. Título do produto (SKU)
-2. Quantidade de memória ram
-3. Quantidade de armazenamento
-4. Estado da bateria externa
-
-Prioritariamente, o sistema segue esta sequência, exceto para os produtos que não incluem algum desses itens em suas regras de criação de pacotes.
-:::
+## Cadastro Manual de Pacote
 
 :::danger[ATENÇÃO!]
 A plataforma Tiny ERP não aceita nomenclaturas repetidas de produtos e nem códigos SKU repetidos, atente-se à criação manual de pacotes.
 :::
+
+Para cadastrar um pacote, siga os passos abaixo:
+
+- Clique no botão **`Cadastrar Novo`**;
+- Nomeie o pacote;
+- Clique em **`Salvar`**.
+
+![Tela cadastrar pacote](/img/images/cadastrar_pacote.png)
+
+## Cadastro Manual com SKU
+
+Para cadastrar um pacote utilizando o SKU, siga os passos:
+
+- Clique no botão **`Cadastrar com SKU`**;
+- Escolha o SKU;
+- Defina o tamanho da memória RAM;
+- Escolha o tipo de armazenamento;
+- Defina o tamanho do armazenamento;
+- Clique em **`Salvar`**.
+
+![Tela cadastrar pacote](/img/images/cadastrar_com_sku.png)
 
 :::info
 Após o cadastro do pacote, o mesmo será incluído em uma lista onde será possível gerenciar seus produtos, registrar o pacote na Tiny e precificar o pacote, veja abaixo:
 :::
 
 ![Tela gerenciar produtos](/img/images/cadastro_pacote_manual.png)
-
-### Adicionar Produtos ao Pacote
-
-Para adicionar um produto ao pacote siga os passos abaixo:
-
-- Clique em **`Gerenciar Produtos`**
-- Selecione o item ou SKU que deseja incluir no pacote
-- Selecione a quantidade a ser adicionada
-- Clique em **`Adicionar`**
-
-Veja um exemplo de inclusão de produtos:
-
-![Tela incluir produto no pacote](/img/images/cadastro_manual_produtos.png)
-
-:::info
-Após adicionar os produtos é necessário registrar o pacote na Tiny para gerar o Tiny ID, para isto basta clicar em **`Registrar Tiny`**
-:::
-
-### Precificar Pacote
-
-Para precificar um pacote, clique em **`$ Precificar`**, defina o preço e clique em **`Salvar`**
-
-![Tela precificação](/img/images/preco_pct_manual.png)
-
-:::info
-Após a finalização, o preço do pacote e seu ID na Tiny serão incluídos no cadastro do pacote.
-:::
-
-![Tela precificação](/img/images/lista_preco_manual.png)
 
 ---
 
@@ -119,9 +98,53 @@ No cadastro automático, os produtos são agrupados por compatibilidade, complem
 
 ![Dashboard pacotes](/img/images/registrar_tiny.png)
 
-6. Clique em **`$ Precificar`** para definir o preço do pacote, digite o valor desejado e clique em **`Salvar`**
+:::warning[Aviso!]
+O título dos pacotes gerados automaticamente conforme as regras de criação é definido pelo sistema, seguindo o padrão abaixo:
 
-![Dashboard pacotes](/img/images/precificar_pacote.png)
+1. Título do produto (SKU);
+2. Quantidade de memória ram;
+3. Quantidade de armazenamento;
+4. Estado da bateria externa;
+
+Prioritariamente, o sistema segue esta sequência, exceto para os produtos que não incluem algum desses itens em suas regras de criação de pacotes.
+:::
+
+---
+
+## Adicionar Produtos ao Pacote
+
+Para adicionar um produto ao pacote siga os passos abaixo:
+
+- Clique em **`Gerenciar Produtos`**;
+- Selecione o item ou SKU que deseja incluir no pacote;
+- Selecione a quantidade a ser adicionada;
+- Clique em **`Adicionar`**.
+
+Veja um exemplo de inclusão de produtos:
+
+![Tela incluir produto no pacote](/img/images/cadastro_manual_produtos.png)
+
+:::info
+Após adicionar os produtos é necessário registrar o pacote na Tiny para gerar o Tiny ID, para isto basta clicar em **`Registrar Tiny`**
+:::
+
+---
+
+## Precificar Pacote
+
+O processo de precificação é o mesmo tanto para pacotes gerados manualmente quanto para os gerados através dos SKU sem pacotes.
+
+Para precificar um pacote, clique em **`$ Precificar`**, defina o preço e clique em **`Salvar`**
+
+![Tela precificação](/img/images/preco_pct_manual.png)
+
+:::info
+Após a finalização, o preço do pacote e seu ID na Tiny serão incluídos no cadastro do pacote.
+:::
+
+![Tela precificação](/img/images/lista_preco_manual.png)
+
+---
 
 :::warning[ATENÇÃO!]
 
@@ -131,9 +154,9 @@ No cadastro automático, os produtos são agrupados por compatibilidade, complem
 
 - Produtos podem ser adicionados ou removidos do pacote, para isto basta clicar em **`Gerenciar Pacote`** e seguir os passos:
 
-  - **Para adicionar:** selecione o item ou SKU, a quantidade desejada e depois clique em **`Adicionar`**
-  - **Para remover:** selecione o produto e clique em **`Arquivar`**
-  - Feche a página de gerenciamento e clique em **`Atualizar`**
+  - **Para adicionar:** selecione o item ou SKU, a quantidade desejada e depois clique em **`Adicionar`**;
+  - **Para remover:** selecione o produto e clique em **`Arquivar`**;
+  - Feche a página de gerenciamento e clique em **`Atualizar`**.
 
 - Sempre que adicionar ou remover produtos de um pacote, você deverá clicar em **`Atualizar Tiny`**
 

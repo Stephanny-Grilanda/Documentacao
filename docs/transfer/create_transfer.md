@@ -9,8 +9,8 @@ Para realizar a transferência de produtos, siga os passos abaixo:
 
 ## Acessar a Tela de Transferência
 
-- Clique na aba **`Transf.`**
-- Clique em **`Transferir`**
+- Clique na aba **`Transf.`**;
+- Clique em **`Transferir`**.
 
 ![Caminho para acessar as transferências](/img/images/aba_transferir.png)
 
@@ -18,11 +18,11 @@ Para realizar a transferência de produtos, siga os passos abaixo:
 
 ## Pré-Requisitos
 
-- Ter o produto cadastrado
-- Ter acesso de escrita à página de transferência
-- Ter acesso de leitura à página de transferência
-- Possuir setores atrelados
-- Ter **[regras de transferência](docs\settings\movements.md)** cadastradas
+- Ter o produto cadastrado;
+- Ter acesso de escrita à página de transferência;
+- Ter acesso de leitura à página de transferência;
+- Possuir setores atrelados;
+- Ter **[regras de transferência](docs\settings\movements.md)** cadastradas.
   :::
 
 ## Realizar Transferência
@@ -44,8 +44,8 @@ Após o cadastro, é necessário que a pessoa responsável pela área confirme a
 
 Para acessar a tela de confirmação, siga os passos abaixo:
 
-- Clique na aba **`Transf.`**
-- Clique em **`Confirmar Transferencia`**
+- Clique na aba **`Transf.`**;
+- Clique em **`Confirmar Transferencia`**.
 
 ![Aba Confirmar Transferência](/img/images/aba_confirmar_transferencia.png)
 
@@ -53,19 +53,19 @@ Para acessar a tela de confirmação, siga os passos abaixo:
 
 ## Pré-requisitos
 
-- Ter permissão de leitura às páginas de transferências
-- Ter permissão de escrita às páginas de transferências
-- Ter um produto aguardando aceite
+- Ter permissão de leitura às páginas de transferências;
+- Ter permissão de escrita às páginas de transferências;
+- Ter um produto aguardando aceite.
   :::
 
 ## Confirmar Transferência
 
 Para confirma uma transferência siga os passos abaixo:
 
-- Clique na transferência que deseja confirmar
-- Clique em **Aprovar** para confirmar a transferência
-- Clique em **Reprovar** para cancelar a transferência.
-- Clique em **`Salvar`**
+- Clique na transferência que deseja confirmar;
+- Clique em **Aprovar** para confirmar a transferência;
+- Clique em **Reprovar** para cancelar a transferência;
+- Clique em **`Salvar`**.
 
 Veja um exemplo de como a aprovação é feita:
 

@@ -11,9 +11,9 @@ Após a inclusão de um pedido é necessário prepará-lo para a expedição. Ve
 
 ## Pré-requisitos
 
-- Ter um perfil de acesso ao sistema
-- Ter acesso às páginas de separação, preparação e formatação
-- Ter permissão de acesso às páginas de separação, preparação e formatação
+- Ter um perfil de acesso ao sistema;
+- Ter acesso às páginas de separação, preparação e formatação;
+- Ter permissão de acesso às páginas de separação, preparação e formatação.
 
 :::
 
@@ -23,8 +23,8 @@ Após a aprovação do pedido, o mesmo precisa ter seu conteúdo separado. Veja 
 
 Para acessar a página de separação siga os passos a seguir:
 
-- Clique na guia **Vendas**
-- Clique em **Separação**
+- Clique na guia **Vendas**;
+- Clique em **Separação**.
 
 ![caminho separação](/img/images/caminho_separacao.png)
 
@@ -34,7 +34,7 @@ Para acessar a página de separação siga os passos a seguir:
 
 ### Escolhendo pedidos para separar
 
-- Clique em **`Aguardando`** para listar os pedidos prontos para serem separados
+- Clique em **`Aguardando`** para listar os pedidos prontos para serem separados;
 
 ![Pedidos Aguardando Separação](/img/images/aguardando_separacao.png)
 
@@ -44,8 +44,8 @@ Para exibir informações do pedido e imprimir a ficha da separação, clique em
 
 ![Detalhes Pedido](/img/images/detalhes_pedidos_2.png)
 
-- Escolha os pedidos que deseja separar e clique em **`Iniciar Separação`**
-- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de separação
+- Escolha os pedidos que deseja separar e clique em **`Iniciar Separação`**;
+- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de separação.
 
 ![Separação do pedido](/img/images/separacao_teste.png)
 
@@ -54,15 +54,15 @@ Para exibir informações do pedido e imprimir a ficha da separação, clique em
 
 ![Separação do pedido](/img/images/separando_pedido.png)
 
-- Clique no ícone de mão para separar os itens do pedido
+- Clique no ícone de mão para separar os itens do pedido;
 
 ![Separação do pedido](/img/images/certificar_separacao.png)
 
-- Confira se os itens estão corretos
-- Selecione a quantidade para os itens elegíveis
-- Selecione o checkbox **Certifico que verifiquei e separei os itens corretamente!**
-- Clique em **`Salvar`**
-- Após separar todos os itens, clique em **`Fechar Separação`**
+- Confira se os itens estão corretos;
+- Selecione a quantidade para os itens elegíveis;
+- Selecione o checkbox **Certifico que verifiquei e separei os itens corretamente!**;
+- Clique em **`Salvar`**;
+- Após separar todos os itens, clique em **`Fechar Separação`**.
 
 ![Separação do pedido](/img/images/fechar_separacao.png)
 
@@ -76,8 +76,8 @@ Após a separação do pedido, o mesmo precisa ter seu conteúdo preparado. Veja
 
 Para acessar a página de separação siga os passos a seguir:
 
-- Clique na guia **Vendas**
-- Clique em **Preparação**
+- Clique na guia **Vendas**;
+- Clique em **Preparação**.
 
 ![caminho preparação](/img/images/caminho_preparacao.png)
 
@@ -85,28 +85,28 @@ Para acessar a página de separação siga os passos a seguir:
 
 ![Tela Preparação](/img/images/tela_preparacao.png)
 
-- Clique em **`Aguardando`** para listar os pedidos prontos para serem preparados
-- Selecione os pedidos que deseja preparar
-- Clique em **`Iniciar Preparação`**
-- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de preparação
+- Clique em **`Aguardando`** para listar os pedidos prontos para serem preparados;
+- Selecione os pedidos que deseja preparar;
+- Clique em **`Iniciar Preparação`**;
+- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de preparação.
 
 ### Preparando itens do pedido
 
-- Defina o pedido que deseja preparar
-- Clique em **`Preparar`**
+- Defina o pedido que deseja preparar;
+- Clique em **`Preparar`**.
 
 ![Tela Preparação](/img/images/tela_preparacao_2.png)
 
-- Verifique se está tudo correto
-- selecione o checkbox "certifico que verifiquei e preparei o pedido corretamente"
-- Clique em **`Salvar`**
+- Verifique se está tudo correto;
+- selecione o checkbox "certifico que verifiquei e preparei o pedido corretamente";
+- Clique em **`Salvar`**.
 
 ![Certificar Preparação](/img/images/certificar_preparacao.png)
 
 ### Finalizando a preparação dos pedidos
 
-- Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e preparei o pedido corretamente"
-- Clique em **`Confirmar e fechar preparação`**
+- Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e preparei o pedido corretamente";
+- Clique em **`Confirmar e fechar preparação`**.
 
 ![Confirmar Preparação](/img/images/confirmar_preparacao.png)
 
@@ -120,8 +120,8 @@ Após a preparação do pedido, alguns itens precisarão de formatação. Veja a
 
 Para acessar a página de formatação siga os passos a seguir:
 
-- Clique na guia **Vendas**
-- Clique em **Formatação**
+- Clique na guia **Vendas**;
+- Clique em **Formatação**.
 
 ![caminho formatação](/img/images/caminho_formatacao.png)
 
@@ -129,28 +129,28 @@ Para acessar a página de formatação siga os passos a seguir:
 
 ![Tela Formatação](/img/images/tela_formatacao.png)
 
-- Clique em **`Aguardando`** para listar os pedidos prontos para serem formatados
-- Selecione os pedidos que deseja formatar
-- Clique em **`Iniciar Formatação`**
-- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de formatação
+- Clique em **`Aguardando`** para listar os pedidos prontos para serem formatados;
+- Selecione os pedidos que deseja formatar;
+- Clique em **`Iniciar Formatação`**;
+- Após selecionar todos os pedidos, clique em **`Em Execução`** para ir à tela de formatação.
 
 ### Formatando itens de um pedido
 
-- Defina o pedido que deseja formatar
-- Clique em **`Formatar`**
+- Defina o pedido que deseja formatar;
+- Clique em **`Formatar`**;
 
 ![Tela Formatação](/img/images/aguardando_formatacao.png)
 
-- Verifique se está tudo correto
-- Clique em **`Iniciar Formatação`**
-- Quando finalizar o processo, clique em **`Concluir Formatação`**
+- Verifique se está tudo correto;
+- Clique em **`Iniciar Formatação`**;
+- Quando finalizar o processo, clique em **`Concluir Formatação`**.
 
 ![Tela Formatação](/img/images/iniciar_formatacao.png)
 
 ### Finalizando a formatação de um pedido
 
-- Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e formatei o pedido corretamente"
-- Clique em **`Confirmar e fechar formatação`**
+- Após preparar todos os itens, selecione o checkbox "Certifico que verifiquei e formatei o pedido corretamente";
+- Clique em **`Confirmar e fechar formatação`**.
 
 ![Tela Formatação](/img/images/confirmar_formatacao.png)
 

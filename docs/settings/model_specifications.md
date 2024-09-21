@@ -13,8 +13,8 @@ Veja abaixo como é feito o cadastro de um campo de especificação.
 
 ## Acessar a página de campos de especificação
 
-- Clique na aba **Configurações**
-- Clique em **Campos Especificações**
+- Clique na aba **Configurações**;
+- Clique em **Campos Especificações**.
 
 ![Aba Campos de Especificação](/img/images/aba_campos_especificacao.png)
 
@@ -22,18 +22,18 @@ Veja abaixo como é feito o cadastro de um campo de especificação.
 
 ## Pré-requisitos
 
-- Ter acesso à página de campos de especificações.
+- Ter acesso à página de campos de especificações;
 - Ter permissão de escrita à página de campos de especificações.
   :::
 
 ## Passo a Passo
 
-- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela.
-- Selecione o tipo de hardware.
-- Selecione a categoria do campo.
-- Digite o nome do campo.
-- Escolha o tipo de campo.
-- Escolha o atributo que será utilizado no campo.
+- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela;
+- Selecione o tipo de hardware;
+- Selecione a categoria do campo;
+- Digite o nome do campo;
+- Escolha o tipo de campo;
+- Escolha o atributo que será utilizado no campo;
 - Clique em **`Salvar`**.
 
 ### Exemplo
@@ -60,13 +60,13 @@ Para este exemplo, utilizaremos como tipo de hardware uma capa para tablet. Veja
 
 4° Após o cadastro, o campo já estará disponível para preenchimento na aba de especificações de modelos. Para verificá-lo, siga os passos abaixo:
 
-    - Acesse a página de modelos
-    - Escolha um modelo onde o tipo de hardware é igual ao que foi selecionado no momento de cadastro da regra
-    - Clique no botão **`...`** e então em **`Preencher especif.`** -
+    - Acesse a página de modelos;
+    - Escolha um modelo onde o tipo de hardware é igual ao que foi selecionado no momento de cadastro da regra;
+    - Clique no botão **`...`** e então em **`Preencher especif.`**.
 
 ![Tela especificações de modelos](/img/images/pagina_modelos_espec.png)
 
-5° Preencha os campos com as especificações necessárias e clique em **`Salvar`**
+5° Preencha os campos com as especificações necessárias e clique em **`Salvar`**;
 
 ![Especificação cadastrada](/img/images/espec_cadastrada.png)
 

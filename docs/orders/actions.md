@@ -15,18 +15,18 @@ Nesta página você pode editar o código de barras, número de série, asset ta
 
 ### Pré-requisitos
 
-- Ter permissão de atualização
+- Ter permissão de atualização.
   :::
 
 ### Passo a Passo
 
-- Selecione o produto que deseja editar
-- Clique em **`Editar`**
+- Selecione o produto que deseja editar;
+- Clique em **`Editar`**;
 
 ![ações disponíveis para modelos](/img/images/lista_produtos.png)
 
-- Faça as alterações necessárias
-- Clique em **`Salvar`**
+- Faça as alterações necessárias;
+- Clique em **`Salvar`**.
 
 ![tela edição de modelos](/img/images/editar_produto.png)
 
@@ -36,17 +36,17 @@ Nesta página você pode editar o código de barras, número de série, asset ta
 
 ### Pré-requisitos
 
-- Ter permissão de exclusão
-- Ter permissão de leitura da página de pedidos
-- O produto não pode ter dependências
+- Ter permissão de exclusão;
+- Ter permissão de leitura da página de pedidos;
+- O produto não pode ter dependências.
   :::
 
 ### Passo a Passo
 
 Para realizar a exclusão, clique em **`Excluir Produto`** e confirme a exclusão
 
-- Selecione o produto que deseja excluir
-- Clique em **`Excluir`**
+- Selecione o produto que deseja excluir;
+- Clique em **`Excluir`**.
 
 ![ações disponíveis para modelos](/img/images/lista_produtos_excluir.png)
 

@@ -15,24 +15,24 @@ Essas regras serão utilizadas na página de **[transferências](docs\transfer\c
 
 ## Pré-requisitos
 
-- Ter acesso à página de configurações
-- Ter permissão de escrita à página de configurações
+- Ter acesso à página de configurações;
+- Ter permissão de escrita à página de configurações.
 
 :::
 
 ## Acessar a página de regras de transferência
 
-- Clique na aba **Configurações**
-- Clique em **`Regras de Transferência`**
+- Clique na aba **Configurações**;
+- Clique em **`Regras de Transferência`**.
 
 ![Aba Regras de Transferências](/img/images/aba_regras_transferencia.png)
 
 ## Passo a Passo
 
-- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela.
-- Selecione o **setor de origem**, onde o produto se encontra no momento da transferência.
-- Selecione o **setor de destino**, para onde o produto será enviado.
-- Clique em **`Salvar`**
+- Clique no botão **`Cadastrar Novo`** localizado no canto superior direito da tela;
+- Selecione o **setor de origem**, onde o produto se encontra no momento da transferência;
+- Selecione o **setor de destino**, para onde o produto será enviado;
+- Clique em **`Salvar`**.
 
 ![Aba Regras de Transferências](/img/images/regras_destino.png)
 

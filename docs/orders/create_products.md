@@ -7,8 +7,8 @@ title: "Cadastrar Produtos"
 
 Para cadastrar os produtos, é necessário seguir o caminho abaixo:
 
-- Clique na guia Produtos
-- Clique em **Pedidos**
+- Clique na guia Produtos;
+- Clique em **Pedidos**.
 
 ![Caminho para acessar os pedidos](/img/images/aba_pedidos.png)
 
@@ -18,12 +18,12 @@ A seguir confira os pré-requisitos para cadastrar os produtos:
 
 ### Pré-requisitos
 
-- Ter um perfil de acesso ao sistema
-- Ter acesso à página de pedidos
-- Ter permissão de escrita da página de pedidos
-- Ter permissão de leitura da página de pedidos
-- Ter um pedido cadastrado
-- Ter uma triagem cadastrada
+- Ter um perfil de acesso ao sistema;
+- Ter acesso à página de pedidos;
+- Ter permissão de escrita da página de pedidos;
+- Ter permissão de leitura da página de pedidos;
+- Ter um pedido cadastrado;
+- Ter uma triagem cadastrada.
   :::
 
 ### Regras de Preenchimento
@@ -52,28 +52,28 @@ Para manipulação de pedidos, o sistema disponibiliza as ações abaixo:
 
 ## Passo a Passo para Cadastro
 
-- Escolha o pedido em que deseja cadastrar um produto
-- Clique em **`Abrir`**
-- Clique no botão **`Visualizar`**
+- Escolha o pedido em que deseja cadastrar um produto;
+- Clique em **`Abrir`**;
+- Clique no botão **`Visualizar`**.
 
 ![Visualizar pedidos](/img/images/visualizar_pedidos.png)
 
 - Preencha todos os campos obrigatórios para o cadastro conforme as regras de preenchimento.
-  - **Triagens:** Código gerado pelo setor de recebimento após a triagem dos materiais recebidos.
-  - **Modelo:** Modelo do equipamento
-  - **Código de Barras:** Código fisicamente colado no equipamento
-  - **Part Number:** Código gerado pelo fabricante que indentifica o modelo do equipamento
-  - **Serial Number:** Código do fabricante que identifica exclusivamente o equipamento
-  - **Peso (KG):** Peso do equipamento em quilogramas
-  - **Asset Tag:** Código colado no equipamento que referencia a empresa anterior proprietária do equipamento.
-  - **Código do Vadis:** Código colado no equipamento quando o pedido comercial exige inventário no sistema Vadis.
-  - **Parent Id:** equipamento proprietário da mídia ou item a ser cadastrado.
-- Confira as informações e clique em **`Salvar`**
+  - **Triagens:** Código gerado pelo setor de recebimento após a triagem dos materiais recebidos;
+  - **Modelo:** Modelo do equipamento;
+  - **Código de Barras:** Código fisicamente colado no equipamento;
+  - **Part Number:** Código gerado pelo fabricante que indentifica o modelo do equipamento;
+  - **Serial Number:** Código do fabricante que identifica exclusivamente o equipamento;
+  - **Peso (KG):** Peso do equipamento em quilogramas;
+  - **Asset Tag:** Código colado no equipamento que referencia a empresa anterior proprietária do equipamento;
+  - **Código do Vadis:** Código colado no equipamento quando o pedido comercial exige inventário no sistema Vadis;
+  - **Parent Id:** equipamento proprietário da mídia ou item a ser cadastrado;
+- Confira as informações e clique em **`Salvar`**.
 
 ![Tela para cadastro de produtos](/img/images/tela_cadastrar_produtos.png)
 
 :::info
-Após o cadastro, o produto será incluído em uma lista e poderá ser localizado logo abaixo do campo **Cadastrar novo produto**
+Após o cadastro, o produto será incluído em uma lista e poderá ser localizado logo abaixo do campo **Cadastrar novo produto**.
 :::
 
 ![Tela para cadastro de produtos](/img/images/lista_produtos.png)

@@ -9,8 +9,8 @@ Nesta página, estão listados os produtos cadastrados nos pedidos que aguardam 
 
 ## Acessar aba entrada no estoque
 
-- Clique na aba **`Estoques`**
-- Clique em **`Entrada no Estoque`**
+- Clique na aba **`Estoques`**;
+- Clique em **`Entrada no Estoque`**.
 
 ![Aba Controle de Estoque](/img/images/entrada_estoque.png)
 
@@ -22,8 +22,8 @@ Nesta página, estão listados os produtos cadastrados nos pedidos que aguardam 
 
 ## Pré-requisitos
 
-- Ter acesso à página de estoques
-- Ter permissão de escrita à página de estoques
+- Ter acesso à página de estoques;
+- Ter permissão de escrita à página de estoques.
   :::
 
 ## Realizar Entrada no Estoque

@@ -13,9 +13,9 @@ Veja abaixo como realizar cada tipo de configuração:
 
 ## Pré-requisitos
 
-- Ter um perfil de acesso ao sistema
-- Ter acesso à página de configurações
-- Ter permissão de escrita às páginas de usuários, setores, roles, ações e permissões
+- Ter um perfil de acesso ao sistema;
+- Ter acesso à página de configurações;
+- Ter permissão de escrita às páginas de usuários, setores, roles, ações e permissões.
   :::
 
 ## Usuários
@@ -24,17 +24,17 @@ A página de usuários permite o cadastro de usuários, assim como a definição
 
 Para acessar a página de usuários siga os passos abaixo:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Usuários`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Usuários`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Cadastro de Usuários](/img/images/tela_usuarios.png)
 
 ### Cadastrando Usuários
 
-- Clique em **`Cadastrar Novo`**
-- Preencha os dados solicitados
-- Clique em **`Salvar`**
+- Clique em **`Cadastrar Novo`**;
+- Preencha os dados solicitados;
+- Clique em **`Salvar`**.
 
 ![Tela Cadastro de Usuários](/img/images/cadastrar_usuario.png)
 
@@ -44,19 +44,19 @@ Para acessar a página de usuários siga os passos abaixo:
 
 ### Adicionando o Setor do Usuário
 
-- Clique no campo **AÇÕES**
-- Clique em **`Adicionar Setor`**
-- Selecione o setor do usuário
-- Clique em **`Salvar`**
+- Clique no campo **AÇÕES**;
+- Clique em **`Adicionar Setor`**;
+- Selecione o setor do usuário;
+- Clique em **`Salvar`**.
 
 ![Adicionar setor](/img/images/adicionar_setor.png)
 
 ### Adicionando o Cargo do Usuário
 
-- Clique no campo **AÇÕES**
-- Clique em **`Adicionar Role`**
-- Selecione o cargo do usuário
-- Clique em **`Salvar`**
+- Clique no campo **AÇÕES**;
+- Clique em **`Adicionar Role`**;
+- Selecione o cargo do usuário;
+- Clique em **`Salvar`**.
 
 ![Adicionar cargo](/img/images/adicionar_role.png)
 
@@ -70,22 +70,22 @@ Através desta página é possível cadastrar os setores que serão utilizados p
 
 Para acessar a página de setores siga os passos abaixo:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Setores`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Setores`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Cadastro de Setores](/img/images/tela_setores.png)
 
 ### Cadastrando Setores
 
-- Clique em **`Cadastrar Novo`**
-- Preencha o nome do setor
-- Clique em **`Salvar`**
+- Clique em **`Cadastrar Novo`**;
+- Preencha o nome do setor;
+- Clique em **`Salvar`**.
 
 ![Tela Cadastro de Setores](/img/images/cadastrar_setor.png)
 
 :::info
-Após o cadastro, o setor será incluído em uma lista que consta todos os setores cadastrados
+Após o cadastro, o setor será incluído em uma lista que consta todos os setores cadastrados.
 :::
 
 ![Tela Lista de Setores](/img/images/lista_setores.png)
@@ -96,22 +96,22 @@ Através desta página é possível cadastrar os cargos que serão utilizados po
 
 Para acessar a página de roles siga os passos abaixo:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Roles`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Roles`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Cadastro de Roles](/img/images/tela_roles.png)
 
 ### Cadastrando Roles
 
-- Clique em **`Cadastrar Novo`**
-- Preencha o nome do Role
-- Clique em **`Salvar`**
+- Clique em **`Cadastrar Novo`**;
+- Preencha o nome do Role;
+- Clique em **`Salvar`**.
 
 ![Tela Cadastro de Role](/img/images/cadastro_roles.png)
 
 :::info
-Após o cadastro, o cargo será incluído em uma lista que consta todos os cargos cadastrados
+Após o cadastro, o cargo será incluído em uma lista que consta todos os cargos cadastrados.
 :::
 
 ![Tela Lista de Setores](/img/images/lista_roles.png)
@@ -120,13 +120,13 @@ Após o cadastro, o cargo será incluído em uma lista que consta todos os cargo
 
 Através da página Roles é possível definir qual são as funções que cada cargo pode executar.
 
-- Defina o cargo que deseja definir as funções
-- Clique em **`Gerenciar`**
+- Defina o cargo que deseja definir as funções;
+- Clique em **`Gerenciar`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Gerenciamento de Cargos](/img/images/gerenciar_role.png)
 
-- Selecione a permissão que deseja dar ou retirar para o role em questão
+- Selecione a permissão que deseja dar ou retirar para o role em questão;
 - O sistema irá exibir a tela abaixo para confirmar a ação:
 
 ![Permissão alterada](/img/images/permissao_alterada.png)
@@ -137,21 +137,21 @@ Através desta página é possível cadastrar ações para diferentes partes do 
 
 Para acessar a página de ações siga os passos abaixo:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Ações`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Ações`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Cadastro de Ações](/img/images/tela_acoes.png)
 
 ### Cadastrando Ações
 
-- Clique em **`Cadastrar Novo`**
-- Preencha o nome da ação
-- Preencha a rota de acesso
-- Preencha a categoria da ação
-- Preencha o tipo da ação
-- Preencha a descrição
-- Clique em **`Salvar`**
+- Clique em **`Cadastrar Novo`**;
+- Preencha o nome da ação;
+- Preencha a rota de acesso;
+- Preencha a categoria da ação;
+- Preencha o tipo da ação;
+- Preencha a descrição;
+- Clique em **`Salvar`**.
 
 ![Tela Cadastro de Role](/img/images/cadastrar_acao.png)
 
@@ -167,19 +167,19 @@ Através desta página é possível definir os tipos de permissões para cada ro
 
 Para acessar a página de permissões siga os passos abaixo:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Permissoes`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Permissoes`**;
 - O sistema irá exibir a tela abaixo:
 
 ![Tela Permissões](/img/images/tela_permissoes.png)
 
 ### Cadastrando Permissões
 
-- Clique em **`Cadastrar Novo`**
-- Selecione o Role
-- Selecione a ação
-- Selecione a permissão
-- Clique em **`Salvar`**
+- Clique em **`Cadastrar Novo`**;
+- Selecione o Role;
+- Selecione a ação;
+- Selecione a permissão;
+- Clique em **`Salvar`**.
 
 ![Tela Cadastro de Permissões](/img/images/cadastrar_permissao.png)
 
