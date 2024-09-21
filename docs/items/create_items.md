@@ -9,8 +9,8 @@ O sistema permite que o usuário cadastre itens para futuras vendas. Veja abaixo
 
 ## Acessar página de itens
 
-- Clique na guia **Produtos**
-- Clique em **`Itens`**
+- Clique na guia **Produtos**;
+- Clique em **`Itens`**.
 
 ![Caminho para acessar os itens](/img/images/caminho_itens.png)
 
@@ -20,9 +20,9 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 
 ### Pré-requisitos
 
-- Ter um perfil de acesso ao sistema
-- Ter acesso à página de itens
-- Ter permissão de escrita da página de itens
+- Ter um perfil de acesso ao sistema;
+- Ter acesso à página de itens;
+- Ter permissão de escrita da página de itens.
   :::
 
 ## Regras de Preenchimento
@@ -36,12 +36,12 @@ A seguir confira os pré-requisitos para cadastrar os itens:
 
 ## Passo a Passo para Cadastro
 
-- Clique no botão cadastrar novo, localizado no canto superior direito da tela
-- Selecione o Modelo
-- Digite o nome do item
-- Digite o código do item
-- Digite a descrição do item
-- Clique em **`salvar`**
+- Clique no botão cadastrar novo, localizado no canto superior direito da tela;
+- Selecione o Modelo;
+- Digite o nome do item;
+- Digite o código do item;
+- Digite a descrição do item;
+- Clique em **`salvar`**.
 
 #### Tela de Cadastro
 

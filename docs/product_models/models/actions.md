@@ -15,8 +15,8 @@ Arquiva os modelos que não serão utilizados. **Uma vez arquivados, os itens fi
 
 Siga os passos abaixo para arquivar modelos:
 
-- Clique em **`Arquivar`**
-- Irá aparecer a mensagem "Deseja continuar?"
+- Clique em **`Arquivar`**;
+- Irá aparecer a mensagem "Deseja continuar?";
 - Clique em **`Arquivar`** para confirmar a ação.
 
 ![confirmação de arquivamento](/img/images/confirmacao_arquivar.png)
@@ -29,9 +29,9 @@ Para editar modelos, é necessário ter permissão de atualização
 
 Para editar o modelo, siga os passos abaixo:
 
-- Clique em **`Editar`**
-- Faça as alterações necessárias
-- Clique em **`Salvar`**
+- Clique em **`Editar`**;
+- Faça as alterações necessárias;
+- Clique em **`Salvar`**.
 
 ![tela edição de modelos](/img/images/editar_modelo.png)
 
@@ -43,10 +43,10 @@ Para preencher especificações, é necessário ter opções de campos cadastrad
 
 ### Passo a Passo
 
-- Acesse a página de modelos
-- Selecione o modelo que deseja cadastrar especificações
-- Na coluna **ações** clique em **`...`**
-- Clique em **`Preencher Especif.`**
+- Acesse a página de modelos;
+- Selecione o modelo que deseja cadastrar especificações;
+- Na coluna **ações** clique em **`...`**;
+- Clique em **`Preencher Especif.`**.
 
 ![ações disponíveis para modelos](/img/images/exemplo_especificacao.png)
 

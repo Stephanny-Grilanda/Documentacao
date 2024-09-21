@@ -11,17 +11,17 @@ Diferentemente da entrada, o controle de estoque de itens é feita de forma manu
 
 ## Pré-requisitos
 
-- Ter acesso à página de estoque
-- Ter permissão de escrita
-- Ter um item cadastrado
-- Selecionar um **pedido** para movimentações de **entrada**
-- Selecionar um **motivo** para movimentações de **saída**
+- Ter acesso à página de estoque;
+- Ter permissão de escrita;
+- Ter um item cadastrado;
+- Selecionar um **pedido** para movimentações de **entrada**;
+- Selecionar um **motivo** para movimentações de **saída**.
   :::
 
 ## Acessar Página Controle de Estoque de Itens
 
-- Clique na guia **Estoque**
-- Clique em **Controle de Estoque de Itens**
+- Clique na guia **Estoque**;
+- Clique em **Controle de Estoque de Itens**.
 
 ![Caminho estoque de itens](/img/images/aba_estoque_item.png)
 

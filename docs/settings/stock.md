@@ -22,15 +22,15 @@ Veja abaixo como cadastrar uma regra:
 
 ### Pré-requisitos
 
-- Ter acesso à página de regras de estoque de dispositivos de armazenamento.
+- Ter acesso à página de regras de estoque de dispositivos de armazenamento;
 - Ter permissão de escrita à página de estoque de dispositivos de armazenamento.
   :::
 
 ### Passo a Passo
 
-- Clique no botão **`Adicionar Regra`** localizado no canto superior direito da tela.
-- Selecione o tipo de hardware.
-- Selecione armazenamento, ou seja, o estoque para onde o tipo de hardware será enviado.
+- Clique no botão **`Adicionar Regra`** localizado no canto superior direito da tela;
+- Selecione o tipo de hardware;
+- Selecione armazenamento, ou seja, o estoque para onde o tipo de hardware será enviado;
 - Clique em **`Salvar`**.
 
 Veja abaixo um exemplo de regra cadastrada:
@@ -43,12 +43,12 @@ Após o cadastro, a regra será incluída em uma lista que contém todas as regr
 
 ## Regras de Criação de Pacotes
 
-A criação de regras permite que o sistema gere automaticamente pacotes com base na análise de compatibilidade dos produtos
+A criação de regras permite que o sistema gere automaticamente pacotes com base na análise de compatibilidade dos produtos.
 
 ### Acessar a página de regras de criação de pacotes
 
-- Clique em **Config.**
-- Clique em **Regras de Criação de Pacotes**
+- Clique em **Config.**;
+- Clique em **Regras de Criação de Pacotes**.
 
 ![caminho regras de pacote](/img/images/aba_regras_pacotes.png)
 
@@ -56,19 +56,19 @@ A criação de regras permite que o sistema gere automaticamente pacotes com bas
 
 ### Pré-requisitos
 
-- Ter acesso à página de regras de criação de pacotes.
+- Ter acesso à página de regras de criação de pacotes;
 - Ter permissão de escrita à página de regras de criação de pacotes.
   :::
 
 ### Passo a Passo
 
-- Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela.
-- Selecione o tipo de hardware.
-- Selecione o modelo (opcional).
-- Selecione se deseja utilizar as opções.
-- Digite o tamanho da memória RAM.
-- Selecione se a RAM será apenas Integrada ou Integrada + Externa.
-- Selecione o tipo de armazenamento.
+- Clique no botão **`Cadastrar Nova`** localizado no canto superior direito da tela;
+- Selecione o tipo de hardware;
+- Selecione o modelo (opcional);
+- Selecione se deseja utilizar as opções;
+- Digite o tamanho da memória RAM;
+- Selecione se a RAM será apenas Integrada ou Integrada + Externa;
+- Selecione o tipo de armazenamento;
 - Clique em **`Salvar`**.
 
 Veja um exemplo de criação de regra de pacote:

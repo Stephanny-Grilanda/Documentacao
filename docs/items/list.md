@@ -19,9 +19,9 @@ O sistema permite que o usuário filtre os itens através do status destes, veja
 
 ![Tipos de Filtros](/img/images/filtro_itens.png)
 
-- **Ativos:** Mostra todos os itens que estão ativos no sistema
-- **Inativos:** Mostra todos os itens que estão inativos no sistema
-- **Todos:** Mostra os itens ativos e inativos que estão cadastrados no sistema
+- **Ativos:** Mostra todos os itens que estão ativos no sistema;
+- **Inativos:** Mostra todos os itens que estão inativos no sistema;
+- **Todos:** Mostra os itens ativos e inativos que estão cadastrados no sistema.
 
 ## Exportar dados
 
@@ -33,16 +33,16 @@ Para realizar as exportações clique no ícone de **download** localizado ao la
 
 ### Exportação em Excel
 
-- Para realizar a exportação em excel, clique no ícone de filtro e selecione **Excel**
-- Escolha a pasta de destino onde deseja salvar o arquivo
-- Nomeie o arquivo
-- Clique em **`Salvar`**
+- Para realizar a exportação em excel, clique no ícone de filtro e selecione **Excel**;
+- Escolha a pasta de destino onde deseja salvar o arquivo;
+- Nomeie o arquivo;
+- Clique em **`Salvar`**.
 
 ### Exportação em CSV
 
-- Para realizar a exportação em excel, clique no ícone de filtro e selecione **CSV**
-- Escolha a pasta de destino onde deseja salvar o arquivo
-- Nomeie o arquivo
-- Clique em **`Salvar`**
+- Para realizar a exportação em excel, clique no ícone de filtro e selecione **CSV**;
+- Escolha a pasta de destino onde deseja salvar o arquivo;
+- Nomeie o arquivo;
+- Clique em **`Salvar`**.
 
 No tópico a seguir veremos quais ações podem ser realizadas para os itens!

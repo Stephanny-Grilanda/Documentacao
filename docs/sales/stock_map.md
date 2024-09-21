@@ -9,8 +9,8 @@ A página de mapa de estoque permite que o usuário visualize quais são e qual 
 
 Para acessar a página de mapa de estoque siga o caminho abaixo:
 
-- Clique na guia **Vendas**
-- Clique em **Mapa de Estoque**
+- Clique na guia **Vendas**;
+- Clique em **Mapa de Estoque**;
 
 ![caminho mapa de estoque](/img/images/caminho_mapa_estoque.png)
 
@@ -18,7 +18,7 @@ Veja abaixo como é feita a busca do que está disponível para venda no sistema
 
 ## Produtos
 
-- Na página de mapa de estoque, clique na guia **Produtos**
+- Na página de mapa de estoque, clique na guia **Produtos**;
 
 - O sistema permite que o usuário utilize diversos filtros para encontrar o produto desejado, sendo estes filtros por SKU, tipo de hardware, fabricante, modelo, classificação do chassi, tela e bateria.
 
@@ -32,7 +32,7 @@ Para visualizar os detalhes de um produto específico, clique no ícone de olho 
 
 ## Dispositivos Armazenamento
 
-- Na página de mapa de estoque, clique na guia **Dispositivos de Armazenamento**
+- Na página de mapa de estoque, clique na guia **Dispositivos de Armazenamento**.
 
 - O sistema permite que o usuário busque um dispositivo de armazenamento específico através do campo **`Pesquisar`**. Para isto, basta digitar o SKU ou título do dispositivo.
 
@@ -40,7 +40,7 @@ Para visualizar os detalhes de um produto específico, clique no ícone de olho 
 
 ## Itens
 
-- Na página de mapa de estoque, clique na guia **Itens**
+- Na página de mapa de estoque, clique na guia **Itens**;
 
 - O sistema permite que o usuário busque um item específico através dos filtros de tipos de hardware e fabricantes e modelos.
 
@@ -48,7 +48,7 @@ Para visualizar os detalhes de um produto específico, clique no ícone de olho 
 
 ## Pacotes
 
-- Na página de mapa de estoque, clique na guia **Pacotes**
+- Na página de mapa de estoque, clique na guia **Pacotes**;
 
 - O sistema permite que o usuário busque um pacote específico através do campo **`Pesquisar`**. Para isto, basta digitar o nome do pacote.
 

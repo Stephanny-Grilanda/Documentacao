@@ -13,9 +13,9 @@ Para consultar os produtos, você pode pesquisar pelo código de barras, tipo de
 
 Para pesquisar um produto siga os seguintes passos:
 
-- Clique na aba **Produtos**
-- Clique em **Teste de Funcionalidade**
-- Digite no campo **`PESQUISAR`** a informação referente ao produto que deseja pesquisar
+- Clique na aba **Produtos**;
+- Clique em **Teste de Funcionalidade**;
+- Digite no campo **`PESQUISAR`** a informação referente ao produto que deseja pesquisar.
 
 ![Campo de pesquisa](/img/images/pesquisar.png)
 
@@ -25,7 +25,7 @@ O sistema permite que o usuário pesquise o produto por código de barras, tipo 
 
 ## Filtrar Produtos
 
-O sistema disponibiliza quatro tipos de filtros na página de teste, sendo estes filtro por sku, tipo de hardware, fabricante e modelo
+O sistema disponibiliza quatro tipos de filtros na página de teste, sendo estes filtro por sku, tipo de hardware, fabricante e modelo.
 
 :::info
 
@@ -53,16 +53,16 @@ Para realizar as exportações clique no ícone de **download** localizado ao la
 
 ### Exportação em Excel
 
-- Para realizar a exportação em excel, clique no ícone de filtro e selecione **Excel**
+- Para realizar a exportação em excel, clique no ícone de filtro e selecione **Excel**;
 - Escolha a pasta de destino onde deseja salvar o arquivo
-- Nomeie o arquivo
-- Clique em **`Salvar`**
+- Nomeie o arquivo;
+- Clique em **`Salvar`**.
 
 ### Exportação em CSV
 
-- Para realizar a exportação em excel, clique no ícone de filtro e selecione **CSV**
+- Para realizar a exportação em excel, clique no ícone de filtro e selecione **CSV**;
 - Escolha a pasta de destino onde deseja salvar o arquivo
-- Nomeie o arquivo
-- Clique em **`Salvar`**
+- Nomeie o arquivo;
+- Clique em **`Salvar`**.
 
 Veja nas próximas páginas como as transferências são realizadas!

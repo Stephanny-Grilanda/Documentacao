@@ -13,8 +13,8 @@ Veja abaixo como funciona cada passo.
 
 Para acessar a página de campos de teste, siga os passos a seguir:
 
-- Clique na guia **`Configurações`**
-- Clique em **`Campos de Teste`**
+- Clique na guia **`Configurações`**;
+- Clique em **`Campos de Teste`**.
 
 ![caminho campos de teste](/img/images/aba_campos_teste.png)
 
@@ -22,26 +22,30 @@ Para acessar a página de campos de teste, siga os passos a seguir:
 
 ### Pré-requisitos
 
-- Ter acesso à página de cadastro de campos de teste.
-- Ter acesso de escrita.
+- Ter acesso à página de cadastro de campos de teste;
+- Ter acesso de escrita;
 - Ter Tipos de Hardware Cadastrados.
 
 :::
 
+O sistema irá exibir a tela abaixo:
+
+![caminho campos de teste](/img/images/tela_teste_funcionalidade.png)
+
 ### Passo a passo
 
-Para cadastrar campos de teste, clique no botão **`Cadastrar Novo Campo`** localizado no canto superior direito da tela e siga os passos abaixo:
+Para cadastrar campos de teste, clique no botão **`Cadastrar Novo Campo`** e siga os passos abaixo:
 
-1. Selecione o tipo de hardware. Ex: notebook, bateria etc.
-2. Selecione o tipo de campo (entrada de texto ou lista de seleção)
-3. Selecione o atributo (checkbox, número, radio ou texto para listas; múltiplo para lista de seleção)
-4. Digite o nome do campo
-5. Digite a categoria do campo
-6. Digite a descrição do campo
-7. Defina se o campo terá informações sobre relevância. Ex: o produto possui riscos relevantes ou não.
-8. Defina se o campo apresentará informações sobre locais danificados.
-9. Defina se o campo será incluído no SKU, se sim, defina em qual área do SKU o campo aparecerá.
-10. Clique em **`Salvar`**
+1. Selecione o tipo de hardware. Ex: notebook, bateria etc.;
+2. Selecione o tipo de campo (entrada de texto ou lista de seleção);
+3. Selecione o atributo (checkbox, número, radio ou texto para listas; múltiplo para lista de seleção);
+4. Digite o nome do campo;
+5. Digite a categoria do campo;
+6. Digite a descrição do campo;
+7. Defina se o campo terá informações sobre relevância. Ex: o produto possui riscos relevantes ou não;
+8. Defina se o campo apresentará informações sobre locais danificados;
+9. Defina se o campo será incluído no SKU, se sim, defina em qual área do SKU o campo aparecerá;
+10. Clique em **`Salvar`**.
 
 :::warning[Importante!]
 A descrição do campo deve ser clara, curta e objetiva!
@@ -57,15 +61,15 @@ Após o cadastro do campo, o mesmo será incluído numa lista onde ficará aguar
 
 ### Cadastro de Opções
 
-Para seguir com o cadastro, escolha o campo que deseja cadastrar uma opção, clique em **`Visualizar Opções`** e depois clique em **`Cadastrar Nova Opção`**
+Para seguir com o cadastro, escolha o campo que deseja cadastrar uma opção, clique em **`Visualizar Opções`** e depois clique em **`Cadastrar Nova Opção`**.
 
 ![Lista aguardando opções](/img/images/cadastrar_opcoes.png)
 
 O sistema irá abrir a tela para cadastro de opções, para concluir o processo siga os seguintes passos:
 
-- Preencha o campo **LABEL** - este definirá apenas a forma que a opção aparecerá no formulário.
-- Preencha o campo **Valor** - este definirá a forma que a opção será utilizada para geração do SKU ou apresentada nos formulários.
-- Clique em **`Salvar`**
+- Preencha o campo **LABEL** - este definirá apenas a forma que a opção aparecerá no formulário;
+- Preencha o campo **Valor** - este definirá a forma que a opção será utilizada para geração do SKU ou apresentada nos formulários;
+- Clique em **`Salvar`**.
 
 ![Cadastro de Opções](/img/images/opcao-cadastrada.png)
 
@@ -79,8 +83,8 @@ As regras devem ser criadas apenas para campos que afetam o SKU, levando em cons
 
 O cadastro das regras deve seguir as especificações do cadastro de cada campo, veja abaixo:
 
-- **Chassi e Tela** - as regras podem ser por local, relevância, valor ou _local e relevância_
-- **Bateria, Informações Adicionais e Funcionalidade** - as regras devem ser exclusivamente por local
+- **Chassi e Tela** - as regras podem ser por local, relevância, valor ou _local e relevância_;
+- **Bateria, Informações Adicionais e Funcionalidade** - as regras devem ser exclusivamente por local.
 
 :::info[Importante!]
 Para campos com relevância e local selecionados, a regra deve ser **Relevância e Local**; para campos com local selecionado, a regra deve ser **Local**; para campos com relevância selecionado, a regra deve ser **Relevância**; para campos que não possuírem nem relevância, nem local selecionados, a regra deve ser **Valor**
@@ -88,17 +92,17 @@ Para campos com relevância e local selecionados, a regra deve ser **Relevância
 
 Siga os passos abaixo para cadastrar uma regra:
 
-- Escolha a opção em que deseja cadastrar uma regra
-- Clique em **`Visualizar Opções`**
-- Clique em **`Adicionar Regras`**
-- Escolha o tipo de regra de acordo com as especificações passadas acima
-- Especifique o local afetado
-- Escolha o destino para onde será enviado o produto
-- Clique em **`Salvar`**
+- Escolha a opção em que deseja cadastrar uma regra;
+- Clique em **`Visualizar Opções`**;
+- Clique em **`Adicionar Regras`**;
+- Escolha o tipo de regra de acordo com as especificações passadas acima;
+- Especifique o local afetado;
+- Escolha o destino para onde será enviado o produto;
+- Clique em **`Salvar`**.
 
 ![Exemplo regra](/img/images/exemplo_regra.png)
 
-O exemplo a seguir mostra o cadastro de regra para o campo cadastrado no início do tutorial, onde não selecionamos relevância ou local, desta forma devemos utilizar uma regra de **Valor**
+O exemplo a seguir mostra o cadastro de regra para o campo cadastrado no início do tutorial, onde não selecionamos relevância ou local, desta forma devemos utilizar uma regra de **Valor**.
 
 ![Campo cadastro regra sku](/img/images/regra_sku.png)
 

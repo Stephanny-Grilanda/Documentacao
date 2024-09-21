@@ -9,15 +9,15 @@ Através das consultas, o sistema permite que o usuário consulte os produtos qu
 
 Siga o caminho abaixo para acessar a página de consultas:
 
-- Clique em **Produtos**
-- Clique em **`Skus`**
+- Clique em **Produtos**;
+- Clique em **`Skus`**.
 
 ![caminho consultas](/img/images/caminho_consulta.png)
 
 ## Consultar Produto
 
-- Para consultar um produto, digite o número do SKU referente a ele no campo **`Pesquisar`**
-- O sistema mostrará o produto pesquisado, acompanhado do título e da descrição
+- Para consultar um produto, digite o número do SKU referente a ele no campo **`Pesquisar`**;
+- O sistema mostrará o produto pesquisado, acompanhado do título e da descrição.
 
 ![tela consultas](/img/images/aba_consulta.png)
 

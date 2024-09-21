@@ -5,15 +5,15 @@ title: "Consultar Transferência"
 
 # Consultar Transferências :mag:
 
-O sistema permite que o usuário exporte os dados sobre as transferências entre produtos para reúso e reciclagem.
+O sistema permite que o usuário exporte os dados sobre as transferências entre produtos para reuso e reciclagem.
 
 Veja abaixo como o processo é feito:
 
 ## Acessar Página Consultar Transferência
 
 - Clique na guia **Transf.**;
-- Clique em **Transf. Reúso x Reciclagem** para a acessar a página de transferência de reúso para reciclagem;
-- Clique em **Transf. Reciclagem x Reúso** para a acessar a página de transferência de reciclagem para reúso.
+- Clique em **Transf. Reuso x Reciclagem** para a acessar a página de transferência de reúso para reciclagem;
+- Clique em **Transf. Reciclagem x Reuso** para a acessar a página de transferência de reciclagem para reuso.
 
 ![Consultas Transferências](/img/images/caminho_consultas_transferencia.png)
 
@@ -31,7 +31,7 @@ Após a autorização da transferência, é necessário confirmar o lançamento 
 
 ## Exportar dados
 
-Para exportar os dados de transferências entre reúso e reciclagem, siga os passos abaixo:
+Para exportar os dados de transferências entre reuso e reciclagem, siga os passos abaixo:
 
 - Acesse a página que contém os dados que deseja exportar;
 - Defina o período da pesquisa;
@@ -39,11 +39,11 @@ Para exportar os dados de transferências entre reúso e reciclagem, siga os pas
 - Clique em **`Exportar`**;
 - Escolha o local de destino e salve o arquivo.
 
-### Exportação Reúso para Reciclagem
+### Exportação Reuso para Reciclagem
 
 ![Consultas Transferências](/img/images/dados-reuso-reciclagem.png)
 
-### Exportação Reciclagem para Reúso
+### Exportação Reciclagem para Reuso
 
 ![Consultas Transferências](/img/images/dados-reciclagem-reuso.png)
 
