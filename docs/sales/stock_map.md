@@ -28,6 +28,8 @@ Veja abaixo como é feita a busca do que está disponível para venda no sistema
 Para visualizar os detalhes de um produto específico, clique no ícone de olho localizado ao lado do código SKU.
 :::
 
+Exemplo de detalhamento de pedido:
+
 ![detalhes de produtos](/img/images/detalhes_produtos.png)
 
 ## Dispositivos Armazenamento
@@ -57,6 +59,8 @@ Para visualizar os detalhes de um produto específico, clique no ícone de olho 
 :::info
 Para visualizar os detalhes de um pacote específico, clique no ícone de olho localizado ao lado do código.
 :::
+
+Exemplo de detalhamento de pedido:
 
 ![detalhes pacotes](/img/images/detalhes_pacotes.png)
 

@@ -22,3 +22,7 @@ As transferências estão disponíveis para os setores abaixo:
 :clipboard: **Cadastro:** setor onde é feito o cadastro de tipos de hardware, tipos e modelos.
 
 Confira na próxima página como realizar as transferências.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de realizar as transferências, utilize a aba **Help Desk** para solicitar suporte!
+:::

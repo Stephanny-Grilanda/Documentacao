@@ -10,3 +10,7 @@ Os modelos de hardware descrevem os tipos de hardware gerenciados pela empresa, 
 Antes de avançar para o cadastro de modelos, é necessário que o sistema já tenha **[tipos de hardware cadastrados](docs\product_models\hardware_types\create.md)**.
 
 Veja nas próximas páginas como é realizado o **[cadastro de modelos](./create_models.md)**, quais são as **[ações](./actions.md)** que o sistema disponibiliza e como realizar **[consultas](./list.md)** aos modelos cadastrados.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de cadastrar os modelos, utilize a aba **Help Desk** para solicitar suporte!
+:::

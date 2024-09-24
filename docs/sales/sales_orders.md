@@ -76,6 +76,14 @@ Para adicionar produtos ao pedido, siga os passos abaixo:
 
 ![Produtos incluídos no Pedido](/img/images/produtos_incluidos.png)
 
+:::info
+Para excluir um produto, basta clicar no ícone de lixeira que se encontra à direita dele.
+:::
+
+:::warning
+Caso o produto já esteja em outras etapas, será necessário retorná-lo para a etapa inicial para conseguir excluí-lo.
+:::
+
 ## Atualizar informações de pagamento e envio
 
 Para incluir os dados de pagamento do pedido, siga os passos abaixo:

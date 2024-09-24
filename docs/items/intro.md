@@ -10,3 +10,7 @@ Os itens são os produtos controlados através de quantidades pela empresa e que
 O sistema permite que o usuário **[cadastre itens](./create_items.md)**, realize **[consultas](./list.md)** na página e **[altere](./actions.md)** os itens cadastrados.
 
 Veja nas próximas páginas como estes processos são realizados.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de cadastrar os itens, utilize a aba **Help Desk** para solicitar suporte!
+:::

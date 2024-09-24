@@ -12,3 +12,7 @@ Nesta página, o usuário pode **[incluir produtos](./create_products.md)** nos 
 Para cadastrar produtos, é necessário que o sistema já tenha pelo menos um pedido comercial cadastrado.
 
 Confira nas próximas páginas o passo a passo para cadastrar, editar e excluir produtos.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de cadastrar os produtos nos pedidos, utilize a aba **Help Desk** para solicitar suporte!
+:::
