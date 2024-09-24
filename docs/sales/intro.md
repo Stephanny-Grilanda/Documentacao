@@ -24,3 +24,7 @@ Veja abaixo como funciona cada etapa:
 - **Embalagem:** nesta página o usuário pode criar e selecionar as caixas em que os itens vendidos serão alocados.
 
 - **Expedição:** nesta página o usuário pode expedir os produtos vendidos e concluir a venda.
+
+:::info
+Caso apareça alguma dúvida ou algum problema durante o cadastro e processamento do pedido de venda, utilize a aba **Help Desk** para solicitar suporte!
+:::

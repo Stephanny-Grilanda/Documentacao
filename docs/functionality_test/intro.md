@@ -10,3 +10,7 @@ Os testes de funcionalidade são uma parte fundamental dos processos da empresa,
 O sistema permite que o usuário **[consulte](./list.md)** os produtos disponíveis para teste e realize o **[teste de funcionalidade](./test.md)** de cada um deles antes de definir o seu destino.
 
 Veja nas próximas páginas como as consultas e os testes de funcionalidade são realizados.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de realizar os testes, utilize a aba **Help Desk** para solicitar suporte!
+:::

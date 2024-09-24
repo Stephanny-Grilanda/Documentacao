@@ -17,3 +17,7 @@ Veja abaixo os tipos de gerenciamentos disponíveis:
 - **[Controle de Pacotes:](./stock_package_control.md)** permite criar e precificar pacotes de produtos.
 
 Nas próximas páginas veja como esses gerenciamentos são feitos.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de realizar os controles de estoque, utilize a aba **Help Desk** para solicitar suporte!
+:::

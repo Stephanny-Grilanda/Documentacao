@@ -14,3 +14,7 @@ Os tipos de hardware referem-se às categorias de produtos gerenciados pela empr
 **Item:** Inclui tudo o que é controlado em grandes quantidades.
 
 Nas próximas páginas você aprenderá a **[cadastrar](./create.md)** tipos de hardware, **[adicionar fabricantes](./actions.md)** a cada um e **[consultar](./list.md)** os tipos de hardware cadastrados.
+
+:::info
+Caso apareça alguma dúvida ou algum problema no momento de cadastrar os tipos de hardware, utilize a aba **Help Desk** para solicitar suporte!
+:::
